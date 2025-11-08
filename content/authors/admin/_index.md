@@ -1,16 +1,15 @@
 ---
 # Display name
-title: Alex Johnson
+title: Abeer Badawi
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Abeer
+last_name: Badawi
 
-# Pronouns (optional)
-pronouns: he/him
+
 
 # Status emoji
 status:
