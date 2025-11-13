@@ -10,7 +10,6 @@ first_name: Abeer
 last_name: Badawi
 
 
-
 # Status emoji
 status:
   icon: 🚀
