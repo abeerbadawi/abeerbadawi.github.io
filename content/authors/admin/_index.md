@@ -273,7 +273,7 @@ awards:
     awarder: ITIDA & NTRA (Egypt)
     icon: hero/currency-dollar
     summary: |
-      National funding from the Information Technology Industry Development Agency 
+      National funding from Information Technology Industry Development Agency 
       (ITIDA) and the National Telecommunications Regulatory Authority (NTRA) for 
       one of the best functional IoT-based portable ICU prototypes.
 
