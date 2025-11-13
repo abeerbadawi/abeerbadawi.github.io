@@ -22,65 +22,51 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoctoral and Faculty Affiliate Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name:  York University and Vector Institute
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'abeerbadawi@yorku.ca'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/AbeerBadaw52365
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url:  https://github.com/abeerbadawi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/abeer-badawi-842199117/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=Se-GA04AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/my-orcid?orcid=0000-0002-0107-9457
 
 interests:
   - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
+  - Machine Learning
+  - Responsible AI
+  - Health 
+  - Mental Health
   - AI Ethics
+  - Biomedical Signals
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Computer Engineering (AI and Health Focus)
+    institution: Ontario Tech University
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2020-05-01
+    date_end: 2024-04-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Leveraging Artificial Intelligence and wearable sensors to predict agitation and aggression in people with dementia.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      url: 'https://ontariotechu.scholaris.ca/server/api/core/bitstreams/64b4248d-de33-4844-90a4-ce40adcabd87/content'
+  
 
 work:
   - position: Senior AI Research Scientist
@@ -168,4 +154,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Dr. Abeer Badawi is a Postdoctoral Researcher at York University and a Faculty Affiliate Researcher at the Vector Institute with more than 10 years of experience in AI and healthcare. Her research bridges AI,  large language models (LLMs), Health, Mental Health, digital biomarkers, and Responsible ai with a focus on fairness, evaluation, and clinical impact. She has collaborated with Kids Help Phone (KHP), University Health Network (UHN), Ontario Shores for Mental Health Sciences, and the Vector Institute to design AI solutions that support frontline professionals and improve patient care, supported by multiple scholarships and research funds. She earned her PhD in Computer Engineering and authored more than 20 publications in leading venues such as ICML, EMNLP, IEEE, and JMIR, and has taught over 15 engineering and AI courses across three universities.
