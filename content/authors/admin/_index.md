@@ -12,7 +12,9 @@ last_name: Badawi
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
+#  icon: 🚀
+
 
 # Is this the primary user of the site?
 superuser: true

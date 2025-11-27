@@ -1,6 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+#The name appearing at the navbar
+title: "Abeer's Homepage" # Abeer Badawi
 date: 2022-10-24
 type: landing
 
