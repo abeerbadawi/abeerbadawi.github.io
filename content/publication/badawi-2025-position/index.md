@@ -8,6 +8,7 @@ authors:
 - Shaina Raza
 - Elham Dolatabadi
 date: '2025-01-01'
+weight : 7
 publishDate: '2025-11-13T19:57:29.317892Z'
 publication_types:
 - paper-conference
@@ -15,4 +16,8 @@ publication: '*International Conference on Machine Learning (ICML)*'
 links:
 - name: URL
   url: https://arxiv.org/abs/2503.16456
+image:
+  filename: featured.jpg  # or whatever your file is named
+
+featured: true
 ---

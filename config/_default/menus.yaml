@@ -19,9 +19,9 @@ main:
   - name: Teaching
     url: teaching/
     weight: 4
-  - name: Talks
-    url: talks/
-    weight: 5
+  # - name: Talks
+  #   url: talks/
+  #   weight: 5
   - name: Awards
     url: awards/
     weight: 6
@@ -29,7 +29,7 @@ main:
     url: services/
     weight: 7
   - name: CV
-    url : cv/
+    url: /assets/papers/CV_Abeer_Badawi.pdf  # ← Direct PDF link
     weight: 8
  
     

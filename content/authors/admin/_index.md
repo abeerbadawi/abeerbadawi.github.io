@@ -217,8 +217,6 @@ skills:
         percent: 100
         icon: heart
 
-
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -228,7 +226,7 @@ awards:
     url: 'https://www.yorku.ca/connected-minds/'
     date: '2025-02-01'
     awarder: Connected Minds – Canada First Research Excellence Fund
-    icon: hero/trophy
+    #icon: hero/trophy
     summary: |
       Competitively awarded Canada First Research Excellence Fund scholarship 
       (CAD $140,000 + $17,000 research allowance, 2025–2027) supporting 
@@ -238,7 +236,7 @@ awards:
     url: 'https://www.ontario.ca/page/ontario-graduate-scholarship-ogs-program'
     date: '2022-09-01'
     awarder: Government of Ontario & Ontario Tech University
-    icon: hero/academic-cap
+    #icon: hero/academic-cap
     summary: |
       Merit-based provincial scholarship recognizing academic excellence during 
       PhD studies in Electrical and Computer Engineering (2022–2023).
@@ -247,7 +245,7 @@ awards:
     url: 'https://ontariotechu.ca'
     date: '2020-05-01'
     awarder: Ontario Tech University
-    icon: hero/academic-cap
+    #icon: hero/academic-cap
     summary: |
       Multi-year scholarship supporting doctoral research on AI for predicting 
       neuropsychiatric symptoms and agitation in dementia care (2020–2024).
@@ -256,7 +254,7 @@ awards:
     url: 'https://engineering.ontariotechu.ca'
     date: '2024-06-01'
     awarder: Faculty of Engineering, Ontario Tech University
-    icon: hero/star
+    #icon: hero/star
     summary: |
       Nominated for the Best PhD Thesis award for work on AI-driven agitation 
       prediction and clinical deployment in a dementia care unit.
@@ -264,7 +262,7 @@ awards:
     url: 'https://www.technationcanada.ca/en/future-workforce-development/career-ready-program/'
     date: '2021-05-01'
     awarder: TECHNATION Canada Career Ready Program with BetterCart Inc.
-    icon: hero/briefcase
+    #icon: hero/briefcase
     summary: |
       Competitive wage subsidy supporting an industry–academia data science 
       internship focused on large-scale retail price analytics and NLP.
@@ -272,7 +270,7 @@ awards:
     url: ''
     date: '2016-06-01'
     awarder: ITIDA & NTRA (Egypt)
-    icon: hero/currency-dollar
+    #icon: hero/currency-dollar
     summary: |
       National funding from Information Technology Industry Development Agency 
       (ITIDA) and the National Telecommunications Regulatory Authority (NTRA) for 
