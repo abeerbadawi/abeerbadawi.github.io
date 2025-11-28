@@ -29,7 +29,7 @@ main:
     url: services/
     weight: 7
   - name: CV
-    url: /assets/papers/CV_Abeer_Badawi.pdf  # ← Direct PDF link
+    url: /CV_Abeer_Badawi.pdf  # ← Direct PDF link
     weight: 8
  
     
