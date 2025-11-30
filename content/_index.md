@@ -37,7 +37,27 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  # - block: markdown
+  - block: collection
+    content:
+      title: Research Labs
+      filters:
+        folders:
+          - labs
+    design:
+      view: article-grid
+      columns: 3
+      # - block: resume-awards
+  # - block: resume-awards
+  #   id: awards  # ← This enables /#awards linking
+  #   content:
+  #     title: Awards
+  #     username: admin
+  #   design:
+  #     # Optional: Add spacing or styling
+  #     spacing:
+  #       padding: [2rem, 0, 2rem, 0]
+
+  # - block: markdown  
   #   content:
   #     title: '📚 My Research'
   #     subtitle: ''
