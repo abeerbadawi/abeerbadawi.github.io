@@ -13,5 +13,5 @@ sections:
       order: desc
       sort_by: 'weight'
     design:
-      view: citation
+      view: grid
 ---

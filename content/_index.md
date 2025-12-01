@@ -34,9 +34,8 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
     design:
-      view: citation
+      view: grid
   - block: collection
     content:
       title: Research Labs

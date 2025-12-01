@@ -10,10 +10,7 @@ tags:
   - Electrical Engineering
   - Computer Engineering
   - Electronics
-# image:
-#   caption: 'Arab Academy for Science and Technology'
-#   filename: teaching-arab-academy.jpg
-#   focal_point: smart
+
 ---
 
 **September 2016 - June 2019, Alexandria, Egypt**

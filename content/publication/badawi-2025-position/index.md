@@ -16,8 +16,7 @@ publication: '*International Conference on Machine Learning (ICML)*'
 links:
 - name: URL
   url: https://arxiv.org/abs/2503.16456
-image:
-  filename: featured.jpg  # or whatever your file is named
+
 
 featured: true
 ---
