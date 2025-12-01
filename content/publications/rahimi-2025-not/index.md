@@ -18,4 +18,5 @@ publication: '*Proceedings of the 2025 Conference on Empirical Methods in Natura
 links:
 - name: URL
   url: https://aclanthology.org/2025.findings-emnlp.846
+featured: true
 ---

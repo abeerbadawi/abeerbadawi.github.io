@@ -13,6 +13,7 @@ publication_types:
 - article-journal
 publication: '*medRxiv*'
 doi: 10.1101/2025.10.22.25338548
+featured: true
 links:
 - name: URL
   url: https://doi.org/10.1101/2025.10.22.25338548

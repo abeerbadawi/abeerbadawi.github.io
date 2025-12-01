@@ -26,12 +26,12 @@ main:
     # url: /#awards
     url: awards/
     weight: 6
-  - name: Services
+  - name: Services & Talks
     url: services/
     weight: 7
-  - name: CV
-    url: /cv_abeer_badawi.pdf  # ← Direct PDF link
-    weight: 8
+  # - name: CV
+  #   url: /cv_abeer_badawi.pdf  # ← Direct PDF link
+  #   weight: 8
  
     
 

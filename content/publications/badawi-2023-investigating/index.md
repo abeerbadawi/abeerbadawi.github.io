@@ -20,4 +20,5 @@ doi: 10.1109/CCECE58730.2023.10288764
 links:
 - name: URL
   url: https://doi.org/10.1109/CCECE58730.2023.10288764
+featured: true
 ---

@@ -15,6 +15,7 @@ publication_types:
 - article-journal
 publication: '*JMIR Aging*'
 doi: 10.2196/68156
+featured: true
 links:
 - name: URL
   url: https://doi.org/10.2196/68156

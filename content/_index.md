@@ -30,13 +30,15 @@ sections:
       title: Research Publications
       order: desc
       sort_by: 'weight'
+      count: 6  # ← Add this to show exactly 6 publications
       text: ''
       filters:
         folders:
           - publications
         exclude_featured: false
     design:
-      view: grid
+      view: article-grid
+      columns: 2
   # - block: collection
   #   id: publication  # ← This enables /#publication linking
   #   content:

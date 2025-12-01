@@ -34,10 +34,8 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'abeerbadawi@yorku.ca'
+    url: 'mailto:abeer.badawi@yorku.ca'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/AbeerBadaw52365
   - icon: brands/github
     url:  https://github.com/abeerbadawi
   - icon: brands/linkedin

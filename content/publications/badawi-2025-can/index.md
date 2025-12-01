@@ -20,4 +20,6 @@ publication: '*arXiv preprint arXiv:2510.19032*'
 links:
 - name: URL
   url: https://arxiv.org/abs/2510.19032
+featured: true
+
 ---
