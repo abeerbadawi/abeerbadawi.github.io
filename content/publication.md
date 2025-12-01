@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Publications
 type: landing
 
@@ -9,9 +9,9 @@ sections:
       count: 0            # ← 0 means show ALL items
       filters:
         folders:
-          - publication
+          - publications
       order: desc
       sort_by: 'weight'
     design:
       view: grid
----
+--- -->

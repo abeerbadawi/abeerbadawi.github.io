@@ -24,18 +24,30 @@ sections:
       avatar:
         size: medium
         shape: circle
-
   - block: collection
-    id: publication  # ← This enables /#publication linking
+    id: publications
     content:
       title: Research Publications
       order: desc
       sort_by: 'weight'
+      text: ''
       filters:
         folders:
-          - publication
+          - publications
+        exclude_featured: false
     design:
       view: grid
+  # - block: collection
+  #   id: publication  # ← This enables /#publication linking
+  #   content:
+  #     title: Research Publications
+  #     order: desc
+  #     sort_by: 'weight'
+  #     filters:
+  #       folders:
+  #         - publication
+  #   design:
+      # view: grid
   - block: collection
     content:
       title: Research Labs

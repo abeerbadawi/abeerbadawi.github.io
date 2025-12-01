@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Publications
 type: landing
 
@@ -6,11 +6,12 @@ sections:
   - block: collection
     content:
       title: All Publications
+      count: 0            # ← 0 means show ALL items
       filters:
         folders:
-          - publication
-      order: asc           # ← Sort ascending
-      sort_by: 'weight'    # ← Use weight for sorting
+          - publications
+      order: desc
+      sort_by: 'weight'
     design:
-      view: citation
---- -->
+      view: grid
+---
