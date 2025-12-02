@@ -6,7 +6,7 @@ sections:
   # TOP 6 FEATURED WITH IMAGES
   - block: collection
     content:
-      title: Featured Publications
+      title: Research Publications
       count: 6                     # Show only 6
       filters:
         folders:
