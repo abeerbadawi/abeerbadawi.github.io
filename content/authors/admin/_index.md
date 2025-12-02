@@ -221,17 +221,17 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Connected Minds Postdoctoral Scholarship (CFREF)
-    url: 'https://www.yorku.ca/connected-minds/'
+    url: 'https://www.yorku.ca/research/connected-minds/postdoctoral-fellowships/'
     date: '2025-02-01'
     awarder: Connected Minds – Canada First Research Excellence Fund
-    #icon: hero/trophy
+    icon: brands/shores
     summary: |
       Competitively awarded Canada First Research Excellence Fund scholarship 
       (CAD $140,000 + $17,000 research allowance, 2025–2027) supporting 
       postdoctoral research on responsible AI and mental health.
 
   - title: Ontario Graduate Scholarship (OGS)
-    url: 'https://www.ontario.ca/page/ontario-graduate-scholarship-ogs-program'
+    url: 'https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html'
     date: '2022-09-01'
     awarder: Government of Ontario & Ontario Tech University
     #icon: hero/academic-cap
@@ -277,4 +277,16 @@ awards:
 
 ---
 
-Dr. Abeer Badawi is a Postdoctoral Researcher at York University and a Faculty Affiliate Researcher at the Vector Institute with more than 10 years of experience in AI and healthcare. Her research bridges AI,  large language models (LLMs), Health, Mental Health, digital biomarkers, and Responsible ai with a focus on fairness, evaluation, and clinical impact. She has collaborated with Kids Help Phone (KHP), University Health Network (UHN), Ontario Shores for Mental Health Sciences, and the Vector Institute to design AI solutions that support frontline professionals and improve patient care, supported by multiple scholarships and research funds. She earned her PhD in Computer Engineering and authored more than 20 publications in leading venues such as ICML, EMNLP, IEEE, and JMIR, and has taught over 15 engineering and AI courses across three universities.
+<style>
+  .justified-text {
+    text-align: justify;
+    text-justify: inter-word; /* For better spacing in most browsers */
+    hyphens: auto; /* For automatic hyphenation where supported */
+    -webkit-hyphens: auto; /* For Safari */
+    -moz-hyphens: auto; /* For Firefox */
+  }
+</style>
+
+<p class="justified-text">
+  Dr. Abeer Badawi is a Postdoctoral Researcher at York University and a Faculty Affiliate Researcher at the Vector Institute with more than 10 years of experience in AI and healthcare. Her research bridges AI, large language models (LLMs), Health, Mental Health, digital biomarkers, and Responsible AI with a focus on fairness, evaluation, and clinical impact. She has collaborated with Kids Help Phone (KHP), University Health Network (UHN), Ontario Shores for Mental Health Sciences, and the Vector Institute to design AI solutions that support frontline professionals and improve patient care, supported by multiple scholarships and research funds. She earned her PhD in Computer Engineering and authored more than 20 publications in leading venues such as ICML, EMNLP, IEEE, and JMIR, and has taught over 15 engineering and AI courses across three universities.
+</p>
