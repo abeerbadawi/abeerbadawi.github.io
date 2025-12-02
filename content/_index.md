@@ -105,15 +105,7 @@ sections:
   #         - publication
   #   design:
       # view: grid
-  - block: collection
-    content:
-      title: Research Labs
-      filters:
-        folders:
-          - labs
-    design:
-      view: article-grid
-      columns: 2
+
       # - block: resume-awards
   # - block: resume-awards
   #   id: awards  # ← This enables /#awards linking
