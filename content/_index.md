@@ -24,18 +24,73 @@ sections:
       avatar:
         size: medium
         shape: circle
+  - block: markdown
+    content:
+      title: 
+      text: |
+        <style>
+        /* Reduce spacing around the entire block */
+        section.home-section {
+          padding-top: 1rem !important;
+          padding-bottom: 1rem !important;
+        }
+
+        /* Navigation container */
+        .research-navigation {
+          display: flex;
+          gap: 1.25rem;
+          justify-content: center;
+        }
+
+        /* Buttons */
+        .research-btn {
+          padding: 2rem;     /* bigger buttons */
+          background: #eef2ff;
+          color: #3730a3;
+          border: 2px solid rgba(191, 219, 254, 0.6);
+          border-radius: 10px;
+          text-decoration: none;
+          font-weight: 700;            /* bolder text */
+          font-size: 1.25rem;          /* larger font */
+          transition: all 0.25s ease;
+        }
+
+        .research-btn:hover {
+          background: #3730a3;
+          color: #eef2ff;
+          border-color: #3730a3;
+          transform: translateY(-2px);
+        }
+        </style>
+
+        <div class="research-navigation">
+          <a href="#publications" class="research-btn">Research Publications</a>
+          <a href="#labs" class="research-btn">Research Labs</a>
+        </div>
+
   - block: collection
-    id: publications
+    id: publications  # This matches the button link
     content:
       title: Research Publications
       order: desc
       sort_by: 'weight'
-      count: 6  # ← Add this to show exactly 6 publications
-      text: ''
+      count: 6
       filters:
         folders:
           - publications
-        exclude_featured: false
+    design:
+      view: article-grid
+      columns: 2
+  
+  - block: collection
+    id: labs  # This matches the button link
+    content:
+      title: Research Labs
+      order: desc
+      sort_by: 'weight'
+      filters:
+        folders:
+          - labs
     design:
       view: article-grid
       columns: 2
@@ -58,7 +113,7 @@ sections:
           - labs
     design:
       view: article-grid
-      columns: 3
+      columns: 2
       # - block: resume-awards
   # - block: resume-awards
   #   id: awards  # ← This enables /#awards linking
