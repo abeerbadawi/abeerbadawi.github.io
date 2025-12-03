@@ -267,7 +267,7 @@ awards:
       Competitive wage subsidy supporting an industry–academia data science 
       internship focused on large-scale retail price analytics and NLP.
   - title: National Prototype Innovation Grant for PortaCare
-    url: ''
+    url: 'https://itida.gov.eg'
     date: '2016-06-01'
     awarder: ITIDA & NTRA (Egypt)
     #icon: hero/currency-dollar
