@@ -5,7 +5,7 @@ summary: "Dr. Shehroz Khan - Intelligent assistive technology and systems lab - 
 image:
   filename: featured.jpg
   focal_point: smart
-weight: 2
+weight: 3
 date: 2022-01-01
 date_end: 2023-06-30
 ---

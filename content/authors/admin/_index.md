@@ -46,11 +46,13 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0002-0107-9457
 
 interests:
-  - Large Language Models
   - Machine Learning
+  - Large Language Models
   - Healthcare and Mental Health
   - LLM Evaluation & Benchmarking
-  - Responsible & Fair AI 
+  - Responsible AI 
+  - Interpretability
+  - Safety and Alignment
   - Large Language Model Psychometrics
   - Digital Biomarkers & Multimodal Sensing 
   - Biomedical Signal Processing
@@ -288,5 +290,21 @@ awards:
 </style>
 
 <p class="justified-text">
-  <strong>Dr. Abeer Badawi</strong> is a <strong>Postdoctoral Researcher at York University</strong> and a <strong>Faculty Affiliate Researcher at the Vector Institute</strong>, with over <strong>10 years of experience at the intersection of AI and healthcare</strong>. Her work bridges <strong>AI, large language models (LLMs), health, mental health, digital biomarkers, and responsible AI</strong>, with a particular focus on <strong>fairness, evaluation, and real-world clinical impact</strong>. She has led and co-led projects on multimodal agitation prediction in dementia care, digital biomarkers, and large-scale mental-health LLM evaluation (e.g., benchmarking and human-grounded assessment of therapeutic dialogue systems), working closely with partners such as <strong>Kids Help Phone (KHP), University Health Network (UHN), CAMH (The Centre for Addiction and Mental Health), Ontario Shores Centre for Mental Health Sciences</strong>, and the <strong>Vector Institute</strong>. Her research is supported by competitive awards, including the <strong>Connected Minds CFREF Postdoctoral Scholarship</strong>, the <strong>Ontario Graduate Scholarship</strong>, and multiple <strong>institutional, national, and industry-funded research programs</strong>. Dr. Badawi earned her <strong>PhD in Computer Engineering</strong> and has authored <strong>publications</strong> in venues such as <strong>ICML, EMNLP, IEEE, and JMIR</strong>, alongside <strong>teaching over 15 engineering and AI courses across three universities</strong>. Dr. Badawi also worked in industry as a <strong>Machine Learning Researcher</strong> at i4Health Lab at York University, <strong>Machine Learning Specialist</strong> at the Vector Institute & Kids Help Phone, and <strong>Data Scientist</strong> at BetterCart Technologies Inc.
+  <strong>Dr. Abeer Badawi</strong> is a <strong>Postdoctoral Researcher at York University</strong> and a 
+  <strong>Faculty Affiliate Researcher at the Vector Institute</strong>, with over <strong>10 years of experience at the intersection of AI and healthcare</strong>. 
+  Her work bridges <strong>AI, LLM, health and mental health, digital biomarkers, and responsible AI</strong>, with a particular focus on 
+  <strong>fairness, evaluation, and real-world clinical impact</strong>. She has led and co-led projects on 
+  <strong>agitation prediction in dementia care, digital biomarkers, and large-scale mental-health LLM evaluation</strong>, 
+  working closely with partners such as <strong>Kids Help Phone (KHP)</strong>, <strong>University Health Network (UHN)</strong>, 
+  <strong>CAMH (The Centre for Addiction and Mental Health)</strong>, <strong>Ontario Shores Centre for Mental Health Sciences</strong>, 
+  and the <strong>Vector Institute</strong>.
+  
+<br>
+
+  Her research is supported by competitive awards, including the <strong>Connected Minds CFREF Postdoctoral Scholarship</strong>, 
+  <strong>Ontario Graduate Scholarship (OGS)</strong>, and multiple <strong>institutional, national, and industry-funded research programs</strong>. 
+  Dr. Badawi earned her <strong>PhD in Computer Engineering</strong> and has authored publications in venues such as 
+  <strong>ICML, EMNLP, IEEE, and JMIR</strong>, alongside teaching <strong>over 15 engineering and AI courses across three universities</strong>. 
+  Dr. Badawi also worked in industry as a <strong>Machine Learning Researcher</strong> at i4Health Lab at York University, 
+  <strong>Machine Learning Specialist</strong> at the Vector Institute & Kids Help Phone, and <strong>Data Scientist</strong> at BetterCart Technologies Inc.
 </p>

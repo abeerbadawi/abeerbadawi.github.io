@@ -5,6 +5,7 @@ image:
   filename: featured.jpg
   focal_point: smart
 date: 2025-02-01
+weight: 4
 ---
 ## Faculty of Computer Science  
 Dalhousie University

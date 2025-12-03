@@ -25,6 +25,10 @@ sections:
         size: medium
         shape: circle
   - block: markdown
+    design :
+      css_class: full
+
+  - block: markdown
     id : research
     content:
       title: 
@@ -87,7 +91,7 @@ sections:
     id: labs  # This matches the button link
     content:
       title: Research Labs
-      order: desc
+      order: asc
       sort_by: 'weight'
       filters:
         folders:

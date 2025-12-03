@@ -2,6 +2,7 @@
 title: "IoT Research Lab"
 summary: "Dr. Khalid Elgazzar - Wearable sensors, AI and IoT - Computer Engineering , Ontario Tech University" 
 # external_link: "https://iotresearchlab.ca/people"
+weight: 2
 image:
   filename: featured.jpg
   focal_point: smart
