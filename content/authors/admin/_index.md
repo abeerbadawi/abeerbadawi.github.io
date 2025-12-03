@@ -48,12 +48,12 @@ profiles:
 interests:
   - Large Language Models
   - Machine Learning
-  - Responsible AI
-  - Health 
-  - Mental Health
-  - AI Ethics
-  - Biomedical Signals
-
+  - Healthcare and Mental Health
+  - LLM Evaluation & Benchmarking
+  - Responsible & Fair AI 
+  - Large Language Model Psychometrics
+  - Digital Biomarkers & Multimodal Sensing 
+  - Biomedical Signal Processing
   
 education:
   - area: PhD Computer Engineering (AI and Health Focus)
@@ -288,5 +288,5 @@ awards:
 </style>
 
 <p class="justified-text">
-  Dr. Abeer Badawi is a Postdoctoral Researcher at York University and a Faculty Affiliate Researcher at the Vector Institute with more than 10 years of experience in AI and healthcare. Her research bridges AI, large language models (LLMs), Health, Mental Health, digital biomarkers, and Responsible AI with a focus on fairness, evaluation, and clinical impact. She has collaborated with Kids Help Phone (KHP), University Health Network (UHN), Ontario Shores for Mental Health Sciences, and the Vector Institute to design AI solutions that support frontline professionals and improve patient care, supported by multiple scholarships and research funds. She earned her PhD in Computer Engineering and authored more than 20 publications in leading venues such as ICML, EMNLP, IEEE, and JMIR, and has taught over 15 engineering and AI courses across three universities.
+  <strong>Dr. Abeer Badawi</strong> is a <strong>Postdoctoral Researcher at York University</strong> and a <strong>Faculty Affiliate Researcher at the Vector Institute</strong>, with over <strong>10 years of experience at the intersection of AI and healthcare</strong>. Her work bridges <strong>AI, large language models (LLMs), health, mental health, digital biomarkers, and responsible AI</strong>, with a particular focus on <strong>fairness, evaluation, and real-world clinical impact</strong>. She has led and co-led projects on multimodal agitation prediction in dementia care, digital biomarkers, and large-scale mental-health LLM evaluation (e.g., benchmarking and human-grounded assessment of therapeutic dialogue systems), working closely with partners such as <strong>Kids Help Phone (KHP), University Health Network (UHN), CAMH (The Centre for Addiction and Mental Health), Ontario Shores Centre for Mental Health Sciences</strong>, and the <strong>Vector Institute</strong>. Her research is supported by competitive awards, including the <strong>Connected Minds CFREF Postdoctoral Scholarship</strong>, the <strong>Ontario Graduate Scholarship</strong>, and multiple <strong>institutional, national, and industry-funded research programs</strong>. Dr. Badawi earned her <strong>PhD in Computer Engineering</strong> and has authored <strong>publications</strong> in venues such as <strong>ICML, EMNLP, IEEE, and JMIR</strong>, alongside <strong>teaching over 15 engineering and AI courses across three universities</strong>. Dr. Badawi also worked in industry as a <strong>Machine Learning Researcher</strong> at i4Health Lab at York University, <strong>Machine Learning Specialist</strong> at the Vector Institute & Kids Help Phone, and <strong>Data Scientist</strong> at BetterCart Technologies Inc.
 </p>

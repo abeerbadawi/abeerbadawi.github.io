@@ -11,13 +11,11 @@ tags:
   - Award Winning
 ---
 
-### Pioneering Leadership in Engineering Education
 
-**IEEE Eta Kappa Nu (IEEE-HKN) Mu Beta Chapter**  
-*President and Founder* | 2019 | Alexandria, Egypt
-
-**Historic Achievement:** Established the **first IEEE-HKN chapter in Africa and Egypt** at Arab Academy for Science and Technology College.
-
-**Recognition:** Led the chapter to win the prestigious **Outstanding Chapter Award** in 2019, recognizing excellence in leadership, professional development, and community impact.
-
-**Legacy:** Created a lasting platform for engineering student development and professional growth in the region.
+- **Former IEEE-HKN Mu Beta Chapter President**, Arab Academy for Science and Technology, Alexandria, Egypt
+  
+-  President and founder of the **IEEE Eta Kappa Nu (IEEE-HKN)** - Mu Beta Chapter at Arab Academy for Science and Technology College, the first chapter in Africa and Egypt.
+  
+  - Won the **Outstanding Chapter Award for 2019**
+  - Chapter's mission: Support students pursuing their first academic degree, faculty members, and professional members
+  - Facebook: [HKN Mu Beta Chapter](https://www.facebook.com/HKN.Mu.Beta)

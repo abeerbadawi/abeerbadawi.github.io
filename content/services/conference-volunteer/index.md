@@ -12,6 +12,6 @@ tags:
 ### Conference Volunteering
 
 **2024 Conferences:**
-- **ICML** - International Conference on Machine Learning
-- **Machine Learning for Healthcare** 2024
+- **ICML** - International Conference on Machine Learning  
+- **Machine Learning for Healthcare** 2024  
 - **IEEE Smart Mobility** 2024

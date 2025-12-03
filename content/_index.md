@@ -25,6 +25,7 @@ sections:
         size: medium
         shape: circle
   - block: markdown
+    id : research
     content:
       title: 
       text: |
@@ -48,7 +49,7 @@ sections:
           background: #eef2ff;
           color: #3730a3;
           border: 2px solid rgba(191, 219, 254, 0.6);
-          border-radius: 10px;
+          border-radius: 20px;
           text-decoration: none;
           font-weight: 700;            /* bolder text */
           font-size: 1.25rem;          /* larger font */

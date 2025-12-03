@@ -1,6 +1,6 @@
 ---
 title: "Conference and Journal Reviewer"
-summary: "Peer review for top AI, computing, and healthcare venues"
+summary: "Confrences : ICLR - IEEE GCAIoT 2023 - IWCMC 2022 - ICCSPA 2022 , Journals : The Journal of Supercomputing (Springer)- BMJ Digital Health and AI "
 date: 2022-01-01
 type: docs
 tags:
