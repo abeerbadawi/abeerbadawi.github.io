@@ -23,7 +23,6 @@ sections:
     content:
       title: Other Research Publications
       count: 0                     # Show all remaining
-      offset: 6                    # Skip first 6
       filters:
         folders:
           - publications
