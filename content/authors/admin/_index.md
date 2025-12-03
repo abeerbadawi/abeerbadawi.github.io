@@ -221,60 +221,60 @@ skills:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Connected Minds Postdoctoral Scholarship (CFREF)
-    url: 'https://www.yorku.ca/research/connected-minds/postdoctoral-fellowships/'
-    date: '2025-02-01'
-    awarder: Connected Minds – Canada First Research Excellence Fund
-    icon: brands/shores
-    summary: |
-      Competitively awarded Canada First Research Excellence Fund scholarship 
-      (CAD $140,000 + $17,000 research allowance, 2025–2027) supporting 
-      postdoctoral research on responsible AI and mental health.
+# awards:
+#   - title: Connected Minds Postdoctoral Scholarship (CFREF)
+#     url: 'https://www.yorku.ca/research/connected-minds/postdoctoral-fellowships/'
+#     date: '2025-02-01'
+#     awarder: Connected Minds – Canada First Research Excellence Fund
+#     icon: 'brands/aast3'
+#     summary: |
+#       Competitively awarded Canada First Research Excellence Fund scholarship 
+#       (CAD $140,000 + $17,000 research allowance, 2025–2027) supporting 
+#       postdoctoral research on responsible AI and mental health.
 
-  - title: Ontario Graduate Scholarship (OGS)
-    url: 'https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html'
-    date: '2022-09-01'
-    awarder: Government of Ontario & Ontario Tech University
-    #icon: hero/academic-cap
-    summary: |
-      Merit-based provincial scholarship recognizing academic excellence during 
-      PhD studies in Electrical and Computer Engineering (2022–2023).
+#   - title: Ontario Graduate Scholarship (OGS)
+#     url: 'https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html'
+#     date: '2022-09-01'
+#     awarder: Government of Ontario & Ontario Tech University
+#     icon: hero/academic-cap
+#     summary: |
+#       Merit-based provincial scholarship recognizing academic excellence during 
+#       PhD studies in Electrical and Computer Engineering (2022–2023).
 
-  - title: PhD Entrance Scholarship
-    url: 'https://ontariotechu.ca'
-    date: '2020-05-01'
-    awarder: Ontario Tech University
-    #icon: hero/academic-cap
-    summary: |
-      Multi-year scholarship supporting doctoral research on AI for predicting 
-      neuropsychiatric symptoms and agitation in dementia care (2020–2024).
+#   - title: PhD Entrance Scholarship
+#     url: 'https://ontariotechu.ca'
+#     date: '2020-05-01'
+#     awarder: Ontario Tech University
+#     #icon: hero/academic-cap
+#     summary: |
+#       Multi-year scholarship supporting doctoral research on AI for predicting 
+#       neuropsychiatric symptoms and agitation in dementia care (2020–2024).
 
-  - title: PhD Best Thesis Award Nomination
-    url: 'https://engineering.ontariotechu.ca'
-    date: '2024-06-01'
-    awarder: Faculty of Engineering, Ontario Tech University
-    #icon: hero/star
-    summary: |
-      Nominated for the Best PhD Thesis award for work on AI-driven agitation 
-      prediction and clinical deployment in a dementia care unit.
-  - title: Canada’s Student Work Placement Program (SWPP) Funding
-    url: 'https://www.technationcanada.ca/en/future-workforce-development/career-ready-program/'
-    date: '2021-05-01'
-    awarder: TECHNATION Canada Career Ready Program with BetterCart Inc.
-    #icon: hero/briefcase
-    summary: |
-      Competitive wage subsidy supporting an industry–academia data science 
-      internship focused on large-scale retail price analytics and NLP.
-  - title: National Prototype Innovation Grant for PortaCare
-    url: 'https://itida.gov.eg'
-    date: '2016-06-01'
-    awarder: ITIDA & NTRA (Egypt)
-    #icon: hero/currency-dollar
-    summary: |
-      National funding from Information Technology Industry Development Agency 
-      (ITIDA) and the National Telecommunications Regulatory Authority (NTRA) for 
-      one of the best functional IoT-based portable ICU prototypes.
+#   - title: PhD Best Thesis Award Nomination
+#     url: 'https://engineering.ontariotechu.ca'
+#     date: '2024-06-01'
+#     awarder: Faculty of Engineering, Ontario Tech University
+#     icon: aast
+#     summary: |
+#       Nominated for the Best PhD Thesis award for work on AI-driven agitation 
+#       prediction and clinical deployment in a dementia care unit.
+#   - title: Canada’s Student Work Placement Program (SWPP) Funding
+#     url: 'https://www.technationcanada.ca/en/future-workforce-development/career-ready-program/'
+#     date: '2021-05-01'
+#     awarder: TECHNATION Canada Career Ready Program with BetterCart Inc.
+#     #icon: hero/briefcase
+#     summary: |
+#       Competitive wage subsidy supporting an industry–academia data science 
+#       internship focused on large-scale retail price analytics and NLP.
+#   - title: National Prototype Innovation Grant for PortaCare
+#     url: 'https://itida.gov.eg'
+#     date: '2016-06-01'
+#     awarder: ITIDA & NTRA (Egypt)
+#     #icon: hero/currency-dollar
+#     summary: |
+#       National funding from Information Technology Industry Development Agency 
+#       (ITIDA) and the National Telecommunications Regulatory Authority (NTRA) for 
+#       one of the best functional IoT-based portable ICU prototypes.
 
 
 ---
