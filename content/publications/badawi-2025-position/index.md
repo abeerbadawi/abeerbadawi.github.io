@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Position: Beyond Assistance-Reimagining LLMs as Ethical and Adaptive Co-Creators in Mental Health Care'
 authors:
 - admin
 - Md Tahmid Rahman Laskar
