@@ -1,9 +1,9 @@
 ---
-title: A Scoping Review of Algorithmic Equity, Data Diversity, and Inclusive Design
-  in the Transformer Era of Clinical NLP
+title: "A Scoping Review of Algorithmic Equity, Data Diversity, and Inclusive Design in the Transformer Era of Clinical NLP | York University · Vector Institute | medRxiv 2025 "
+summary: "𝐀𝐮𝐭𝐡𝐨𝐫𝐬: 𝐒𝐡𝐞𝐫𝐢 𝐆𝐫𝐚𝐜𝐡, 𝐀𝐛𝐞𝐞𝐫 𝐁𝐚𝐝𝐚𝐰𝐢, 𝐅𝐚𝐫𝐚𝐡 𝐀𝐡𝐦𝐚𝐝, 𝐄𝐥𝐡𝐚𝐦 𝐃𝐨𝐥𝐚𝐭𝐚𝐛𝐚𝐝𝐢."
 authors:
-- Sheri Grach
 - admin
+- Sheri Grach
 - Farah Ahmed
 - Elham Dolatabadi
 date: '2025-01-01'
@@ -18,3 +18,7 @@ links:
 - name: URL
   url: https://doi.org/10.1101/2025.10.22.25338548
 ---
+## Institutions:
+
+1. Faculty of Health, York University, Toronto, Canada.
+2. Vector Institute for Artificial Intelligence, Toronto, Canada.

@@ -74,7 +74,7 @@ sections:
         </div>
 
   - block: collection
-    id: publications  # This matches the button link
+    id: publications  
     content:
       title: Research Publications
       order: desc
@@ -84,6 +84,8 @@ sections:
         folders:
           - publications
     design:
+      spacing:
+        padding: [0.5, 0, 0, 0]
       view: article-grid
       columns: 2
   
