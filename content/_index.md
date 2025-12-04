@@ -7,7 +7,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: '0rem'
 
 sections:
   - block: resume-biography-3
@@ -20,43 +20,43 @@ sections:
       show:
         education: false
     design:
+      spacing:
+        padding: [0, 0, 0, 0]
       css_class: hbx-bg-gradient
       avatar:
         size: medium
         shape: circle
-  - block: markdown
-    design :
-      css_class: full
+
 
   - block: markdown
     id : research
+    design:
+      spacing:
+        padding: [1, 0, 0, 0]
     content:
       title: 
       text: |
         <style>
-        /* Reduce spacing around the entire block */
         section.home-section {
-          padding-top: 1rem !important;
-          padding-bottom: 1rem !important;
+          padding-top: 0rem !important;
+          padding-bottom: 0rem !important;
         }
 
-        /* Navigation container */
         .research-navigation {
           display: flex;
-          gap: 1.25rem;
+          gap: 1.5rem;
           justify-content: center;
         }
 
-        /* Buttons */
         .research-btn {
-          padding: 2rem;     /* bigger buttons */
+          padding: 2rem;     
           background: #eef2ff;
           color: #3730a3;
           border: 2px solid rgba(191, 219, 254, 0.6);
           border-radius: 20px;
           text-decoration: none;
-          font-weight: 700;            /* bolder text */
-          font-size: 1.25rem;          /* larger font */
+          font-weight: 700;            
+          font-size: 1.25rem;          
           transition: all 0.25s ease;
         }
 
