@@ -298,9 +298,9 @@ skills:
   working closely with partners such as <strong>Kids Help Phone (KHP)</strong>, <strong>University Health Network (UHN)</strong>, 
   <strong>CAMH (The Centre for Addiction and Mental Health)</strong>, <strong>Ontario Shores Centre for Mental Health Sciences</strong>, 
   and the <strong>Vector Institute</strong>.
-  
-<br>
+</p>
 
+<p class="justified-text">
   Her research is supported by competitive awards, including the <strong>Connected Minds CFREF Postdoctoral Scholarship</strong>, 
   <strong>Ontario Graduate Scholarship (OGS)</strong>, and multiple <strong>institutional, national, and industry-funded research programs</strong>. 
   Dr. Badawi earned her <strong>PhD in Computer Engineering</strong> and has authored publications in venues such as 
