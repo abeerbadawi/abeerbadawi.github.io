@@ -1,5 +1,5 @@
 ---
-title: "Not Lost After All: How Cross-Encoder Attribution Challenges Position Bias Assumptions in LLM Summarization | Dalhousie University · Vector Institute · York University | EMNLP 2025"
+title: "Not Lost After All: How Cross-Encoder Attribution Challenges Position Bias Assumptions in LLM Summarization | EMNLP 2025"
 summary: "𝐀𝐮𝐭𝐡𝐨𝐫𝐬: 𝐄𝐥𝐚𝐡𝐞 𝐑𝐚𝐡𝐢𝐦𝐢, 𝐇𝐚𝐬𝐬𝐚𝐧 𝐒𝐚𝐣𝐣𝐚𝐝, 𝐃𝐨𝐦𝐞𝐧𝐢𝐜 𝐑𝐨𝐬𝐚𝐭𝐢, 𝐀𝐛𝐞𝐞𝐫 𝐁𝐚𝐝𝐚𝐰𝐢, 𝐄𝐥𝐡𝐚𝐦 𝐃𝐨𝐥𝐚𝐭𝐚𝐛𝐚𝐝𝐢, 𝐅𝐫𝐚𝐧𝐤 𝐑𝐮𝐝𝐳𝐢𝐜𝐳."
 authors:
 - admin

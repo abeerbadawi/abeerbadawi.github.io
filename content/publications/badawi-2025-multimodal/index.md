@@ -1,5 +1,5 @@
 ---
-title: "Multimodal Detection of Agitation in People With Dementia in Clinical Settings: Observational Pilot Study | Ontario Tech University · Western University · University of Toronto · Canadian University of Dubai · Ontario Shores Centre for Mental Health Sciences | JMIR Aging 2025 ."
+title: "Multimodal Detection of Agitation in People With Dementia in Clinical Settings: Observational Pilot Study | JMIR Aging 2025 "
 summary: "𝐀𝐮𝐭𝐡𝐨𝐫𝐬: 𝐀𝐛𝐞𝐞𝐫 𝐁𝐚𝐝𝐚𝐰𝐢, 𝐒𝐨𝐦𝐚𝐲𝐲𝐚 𝐄𝐥𝐦𝐨𝐠𝐡𝐚𝐳𝐲, 𝐒𝐚𝐦𝐢𝐫𝐚 𝐂𝐡𝐨𝐮𝐝𝐡𝐮𝐫𝐲, 𝐒𝐚𝐫𝐚 𝐄𝐥𝐠𝐚𝐳𝐳𝐚𝐫, 𝐊𝐡𝐚𝐥𝐢𝐝 𝐄𝐥𝐠𝐚𝐳𝐳𝐚𝐫, 𝐀𝐦𝐞𝐫 𝐌 𝐁𝐮𝐫𝐡𝐚𝐧."
 authors:
   - admin

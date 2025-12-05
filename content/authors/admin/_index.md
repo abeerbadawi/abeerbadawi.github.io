@@ -292,10 +292,10 @@ skills:
 <p class="justified-text">
   <strong>Dr. Abeer Badawi</strong> is a <strong>Postdoctoral Researcher at York University</strong> and a 
   <strong>Faculty Affiliate Researcher at the Vector Institute</strong>, with over <strong>10 years of experience at the intersection of AI and healthcare</strong>. 
-  Her work bridges <strong>AI, LLM, health and mental health, digital biomarkers, and responsible AI</strong>, with a particular focus on 
+  Her work bridges <strong>AI, LLM, health and mental health, digital biomarkers, and responsible AI</strong>, with a focus on 
   <strong>fairness, evaluation, and real-world clinical impact</strong>. She has led and co-led projects on 
-  <strong>agitation prediction in dementia care, digital biomarkers, and large-scale mental-health LLM evaluation</strong>, 
-  working closely with partners such as <strong>Kids Help Phone (KHP)</strong>, <strong>University Health Network (UHN)</strong>, 
+  <strong>agitation prediction in dementia, digital biomarkers, and large-scale mental-health LLM evaluation</strong>, 
+  working  with partners such as <strong>Kids Help Phone (KHP)</strong>, <strong>University Health Network (UHN)</strong>, 
   <strong>CAMH (The Centre for Addiction and Mental Health)</strong>, <strong>Ontario Shores Centre for Mental Health Sciences</strong>, 
   and the <strong>Vector Institute</strong>.
 </p>
@@ -305,6 +305,6 @@ skills:
   <strong>Ontario Graduate Scholarship (OGS)</strong>, and multiple <strong>institutional, national, and industry-funded research programs</strong>. 
   Dr. Badawi earned her <strong>PhD in Computer Engineering</strong> and has authored publications in venues such as 
   <strong>ICML, EMNLP, IEEE, and JMIR</strong>, alongside teaching <strong>over 15 engineering and AI courses across three universities</strong>. 
-  Dr. Badawi also worked in industry as a <strong>Machine Learning Researcher</strong> at i4Health Lab at York University, 
-  <strong>Machine Learning Specialist</strong> at the Vector Institute & Kids Help Phone, and <strong>Data Scientist</strong> at BetterCart Technologies Inc.
+  Dr. Badawi also worked in industry as a <strong>Machine Learning Researcher</strong> at York University, 
+  <strong>a Machine Learning Specialist</strong> at the Vector Institute, and <strong>Data Scientist</strong> at BetterCart Technologies Inc.
 </p>

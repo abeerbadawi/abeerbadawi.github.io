@@ -1,6 +1,6 @@
 ---
 title: "Dr. Frank Rudzicz's  Lab "
-summary: "Machine learning, NLP, and healthcare - Faculty of Computer Science - Dalhousie University"
+summary: "Dr. Frank Rudzicz's - Machine learning, NLP, and healthcare - Faculty of Computer Science - Dalhousie University"
 image:
   filename: featured.jpg
   focal_point: smart

@@ -13,6 +13,6 @@ sections:
       order: asc
       sort_by: 'weight'
     design:
-      view: grid
-      columns: 1
+      view: article-grid
+      columns: 2
 ---

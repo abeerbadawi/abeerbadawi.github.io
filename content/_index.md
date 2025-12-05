@@ -32,7 +32,7 @@ sections:
     id : research
     design:
       spacing:
-        padding: [1, 0, 0, 0]
+        padding: [0, 0, 0, 0]
     content:
       title: 
       text: |
@@ -85,7 +85,7 @@ sections:
           - publications
     design:
       spacing:
-        padding: [0.5, 0, 0, 0]
+        padding: [1, 0, 0, 0]
       view: article-grid
       columns: 2
   
@@ -100,6 +100,8 @@ sections:
           - labs
     design:
       view: article-grid
+      spacing:
+        padding: [0, 0, 0, 0]
       columns: 2
   # - block: collection
   #   id: publication  # ← This enables /#publication linking
