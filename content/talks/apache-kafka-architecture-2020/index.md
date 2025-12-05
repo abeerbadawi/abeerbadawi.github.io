@@ -1,5 +1,6 @@
 ---
 title: "Apache Kafka Architecture & Fundamentals Explained"
+summary: "Ontario Tech University, Oshawa, Canada."
 date: 2020-01-01
 type: docs
 event: "Ontario Tech University Seminar"

@@ -1,6 +1,6 @@
 ---
 title: "AI for AGITATION: Predicting Behavioural Distress in Dementia Care"
-summary: " Presented my PhD research conducted in collaboration with Ontario Tech University and Ontario Shores Centre for Mental Health Sciences."
+summary : "The London School of Economics and Political Science, London, UK"
 date: 2025-09-23
 type: docs
 external_link : "https://goltc.org/goltc-webinar-recording-ai-for-agitation-predicting-behavioural-distress-in-dementia-care/"

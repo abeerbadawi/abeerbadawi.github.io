@@ -13,8 +13,16 @@ tags:
   - Women in Tech
 ---
 
-### Women in AI Canada Hackathon 2025
 
 **Role:** Project Mentor  
-**Event:** Women in AI Hackathon 2025  
-**Project:** AI Guardian, a tool that evaluates AI chatbot responses for mental health support. It scores responses on safety, empathy, relevance, and helpfulness.
+**Event:** Women in AI Canada Hackathon 2025  
+**Duration:** 3-day virtual hackathon  
+## **Featured Project: AI Guardian**
+Mentored a team developing a safety evaluation framework for mental health chatbots that scores AI responses across four dimensions: safety, empathy, relevance, and helpfulness.
+
+## **Mentoring Focus**
+- Guided interdisciplinary teams on AI architecture and implementation
+- Advised on ethical AI practices and safety considerations for mental health applications
+- Provided technical guidance on model selection and system design
+- Assisted with project planning and presentation strategies
+
