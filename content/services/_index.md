@@ -19,7 +19,7 @@ sections:
       columns: 2
 
   # Talks Section
-  - block: collection
+  - block: collection2
     id: talks
     content:
       title: Talks 

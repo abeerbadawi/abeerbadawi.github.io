@@ -21,19 +21,39 @@ tags:
 ### Courses:
 
 • **Introduction to Programming ENGR 1200U**
-  - **Term:** Fall 2024, Winter 2025
+  - **Term:** Summer 2024, Winter 2025
   - **Department:** Engineering and Applied Science 
-  - **Course Description:** Fundamentals of C++ programming language, object-oriented programming concepts, and algorithmic thinking
+  - **Course Description:**  
+  **Introduction to the anatomy of a computer:**  
+  • CPU, memory, machine cycle, input, and output devices, data representation.  
+  • Fundamental programming concepts: flowcharting, algorithm design, use of procedures, program control flow, arrays and vectors, arithmetic and logic operators, data, declaration, programming in C++.
   - **Students Enrolled :** 350 students 
 
 • **Web Programming SOFE 2800U**
   - **Term:** Fall 2024
   - **Department:** Software Engineering 
-  - **Course Description::** Modern web development including HTML5, CSS3, JavaScript, client-server architecture, and database integration
+  - **Course Description:**  
+    **Web Programming**  
+    • This course introduces the fundamental concepts and technologies for developing web applications. Topics include: markup languages, graphics, event-driven programming, scripting languages, database interaction, and web frameworks for building exciting applications.  
+    • Computer Experience:  
+      • HTML.  
+      • CSS.  
+      • JavaScript.  
+      • PHP.  
+      • MySQL.  
+      • NodeJS.  
+   **Laboratory**  
+    - **Hands On:** Getting Started with HTML and CSS  
+    - **Hands On:** forms and JavaScript  
+    - **Hands On:** Debugging, Bootstrap, and Node.js  
+    - **Hands On:** PHP and MYSQL  
+    - **Hands On:** Java Servlets, Java Server Pages and Java Server Faces
   - **Students Enrolled :** 150 students 
 
-• **Graduate course Software Engineering Studio ENGR 5990U**
+• **Graduate course Software Engineering Studio ENGR 5990G**
   - **Term:** Fall 2024
-  - **Department:** Engineering and Applied Science 
-  - **Course Description:** This advanced studio course focuses on designing and developing large-scale, software-intensive healthcare applications powered by large language models. Students work in teams to apply software engineering principles, decomposing complex systems into modular, maintainable components while implementing full-stack solutions.
-  - **Student Projects GitHub Repo:** [ENGR-5590G-Software-Engineering-Studio](https://github.com/abeerbadawi/ENGR-5590G-Software-Engineering-Studio)
+  - **Department:** Electrical, Computer and Software Engineering (Graduate Studies)
+  - **Course Description:** Advanced team-based studio focusing on developing large-scale healthcare software systems powered by large language models. Students apply software engineering principles to design, implement, and deploy modular full-stack applications. Emphasizes system decomposition, cloud deployment, CI/CD pipelines, database integration, and ethical AI implementation in healthcare contexts.
+  - **Project Focus:** LLM-powered healthcare applications, team collaboration on complex software projects
+  - **Technical Components:** Full-stack development, cloud platforms (AWS/Azure/GCP), REST/GraphQL APIs, CI/CD, SQL/NoSQL databases, LLM integration
+  - **GitHub Repository:** [ENGR-5590G-Software-Engineering-Studio](https://github.com/abeerbadawi/ENGR-5590G-Software-Engineering-Studio)
