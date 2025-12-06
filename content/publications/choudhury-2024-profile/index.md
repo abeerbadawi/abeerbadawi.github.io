@@ -14,5 +14,5 @@ publication_types:
 publication: "*Alzheimer's Association International Conference*"
 links:
 - name: URL
-  url: https://alz.confex.com/alz/2024/meetingapp.cgi/Paper/XXXXX
+  url: https://alz.confex.com/alz/2024/meetingapp.cgi/Paper/90882
 ---

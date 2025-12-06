@@ -16,5 +16,5 @@ publication: '*International Psychogeriatrics*'
 links:
 - name: URL
   url: 
-    https://www.cambridge.org/core/journals/international-psychogeriatrics/article/s13-technology-enabled-care-for-neuropsychiatric-symptoms-of-dementia-implementation-at-the-point-of-care/
+    https://www.cambridge.org/core/journals/international-psychogeriatrics/article/s13-technology-enabled-care-for-neuropsychiatric-symptoms-of-dementia-implementation-at-the-point-of-care/80F23E9C8D57355350C2483CE78130A9
 ---

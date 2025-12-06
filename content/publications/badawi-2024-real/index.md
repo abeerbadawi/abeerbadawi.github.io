@@ -17,5 +17,5 @@ publication: '*2024 6th International Conference on Communications, Signal Proce
 doi: 10.1109/ICCSPA61559.2024.10812045
 links:
 - name: URL
-  url: https://doi.org/10.1109/ICCSPA61559.2024.10812045
+  url: https://ieeexplore.ieee.org/abstract/document/10794318
 ---
