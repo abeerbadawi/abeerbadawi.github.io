@@ -18,4 +18,4 @@ tags:
   
   - Won the **Outstanding Chapter Award for 2019**
   - Chapter's mission: Support students pursuing their first academic degree, faculty members, and professional members
-  - Facebook: [HKN Mu Beta Chapter](https://www.facebook.com/HKN.Mu.Beta)
+  - Official Website: [HKN Mu Beta Chapter](https://hkn.ieee.org/hkn-chapters/all-chapters/mu-beta-chapter)

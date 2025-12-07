@@ -3,6 +3,7 @@ title: "The Future of Mental Health in the Age of LLMs, Agentic AI, and Ethical 
 summary : "York University, Toronto, Canada."
 date: 2025-07-01
 type: docs
+external_link : "https://www.eventbrite.ca/e/technomindfuture-of-mental-health-research-with-llms-agenticai-ethics-tickets-1504822507629"
 event: "TechnoMind, York University"
 location: "York University, Toronto, Canada"
 tags:

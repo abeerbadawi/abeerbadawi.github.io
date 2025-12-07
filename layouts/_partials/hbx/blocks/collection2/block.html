@@ -115,7 +115,7 @@
 </div>
 {{ end }}
 
-<div class="flex flex-col items-center px-6">
+<div class="flex flex-col items-center">
   {{ $config := dict 
       "columns" ($block.design.columns | default 2) 
       "len" (len $query) 
@@ -127,49 +127,52 @@
       "non_clickable" true
     }}
   
-  {{ if eq $view "card" }}
-    <div class="grid grid-cols-1 md:grid-cols-{{ $config.columns }} gap-6 lg:gap-8">
-      {{ range $index, $item := $query }}
-        {{ partial "hbx/blocks/collection2/card" (dict "page" $block "item" $item "config" $config "index" $index) }}
-      {{ end }}
-    </div>
-  {{ else if eq $view "showcase" }}
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:gap-8">
-      {{ range $index, $item := $query }}
-        {{ partial "hbx/blocks/collection2/card" (dict "page" $block "item" $item "config" $config "index" $index) }}
-      {{ end }}
-    </div>
-  {{ else if eq $view "article-grid" }}
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
-      {{ range $index, $item := $query }}
-        {{ partial "hbx/blocks/collection2/card" (dict "page" $block "item" $item "config" $config "index" $index) }}
-      {{ end }}
-    </div>
-  {{ else if eq $view "compact" }}
-    <ul class="w-full space-y-3">
-      {{ range $item := $query }}
-        <li class="pb-3 border-b border-gray-100 dark:border-gray-800 last:border-b-0 last:pb-0">
-          <div class="flex items-center">
-            <span class="text-lg font-medium text-gray-900 dark:text-white">{{ $item.Title }}</span>
-            {{ if $item.Params.external_link }}
-              <a href="{{ $item.Params.external_link }}" target="_blank" rel="noopener" class="ml-2">
-                {{ partial "functions/get_icon" (dict "name" "arrow-top-right-on-square" "attributes" "class=\"w-4 h-4 text-gray-500 dark:text-gray-400\"") }}
-              </a>
+  {{/* MATCH ORIGINAL CONTAINER STRUCTURE */}}
+  <div class="container mx-auto max-w-screen-lg px-8 xl:px-5">
+    {{ if eq $view "card" }}
+      <div class="grid grid-cols-1 md:grid-cols-{{ $config.columns }} gap-6 lg:gap-8">
+        {{ range $index, $item := $query }}
+          {{ partial "hbx/blocks/collection2/card" (dict "page" $block "item" $item "config" $config "index" $index) }}
+        {{ end }}
+      </div>
+    {{ else if eq $view "showcase" }}
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:gap-8">
+        {{ range $index, $item := $query }}
+          {{ partial "hbx/blocks/collection2/card" (dict "page" $block "item" $item "config" $config "index" $index) }}
+        {{ end }}
+      </div>
+    {{ else if eq $view "article-grid" }}
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
+        {{ range $index, $item := $query }}
+          {{ partial "hbx/blocks/collection2/card" (dict "page" $block "item" $item "config" $config "index" $index) }}
+        {{ end }}
+      </div>
+    {{ else if eq $view "compact" }}
+      <ul class="w-full space-y-3">
+        {{ range $item := $query }}
+          <li class="pb-3 border-b border-gray-100 dark:border-gray-800 last:border-b-0 last:pb-0">
+            <div class="flex items-center">
+              <span class="text-lg font-medium text-gray-900 dark:text-white">{{ $item.Title }}</span>
+              {{ if $item.Params.external_link }}
+                <a href="{{ $item.Params.external_link }}" target="_blank" rel="noopener" class="ml-2">
+                  {{ partial "functions/get_icon" (dict "name" "arrow-top-right-on-square" "attributes" "class=\"w-4 h-4 text-gray-500 dark:text-gray-400\"") }}
+                </a>
+              {{ end }}
+            </div>
+            {{ with $item.Params.summary }}
+              <p class="text-gray-600 dark:text-gray-300 text-sm mt-1">{{ . | truncate 150 }}</p>
             {{ end }}
-          </div>
-          {{ with $item.Params.summary }}
-            <p class="text-gray-600 dark:text-gray-300 text-sm mt-1">{{ . | truncate 150 }}</p>
-          {{ end }}
-        </li>
-      {{ end }}
-    </ul>
-  {{ else }}
-    <div class="grid grid-cols-1 md:grid-cols-{{ $config.columns }} gap-6 lg:gap-8">
-      {{ range $index, $item := $query }}
-        {{ partial "hbx/blocks/collection2/card" (dict "page" $block "item" $item "config" $config "index" $index) }}
-      {{ end }}
-    </div>
-  {{ end }}
+          </li>
+        {{ end }}
+      </ul>
+    {{ else }}
+      <div class="grid grid-cols-1 md:grid-cols-{{ $config.columns }} gap-6 lg:gap-8">
+        {{ range $index, $item := $query }}
+          {{ partial "hbx/blocks/collection2/card" (dict "page" $block "item" $item "config" $config "index" $index) }}
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
 </div>
 
 {{/* Archive link */}}
