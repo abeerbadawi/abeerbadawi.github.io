@@ -16,7 +16,6 @@ tags:
 
 **Role:** Project Mentor  
 **Event:** Women in AI Canada Hackathon 2025  
-**Duration:** 3-day virtual hackathon  
 ## **Featured Project: AI Guardian**
 Mentored a team developing a safety evaluation framework for mental health chatbots that scores AI responses across four dimensions: safety, empathy, relevance, and helpfulness.
 

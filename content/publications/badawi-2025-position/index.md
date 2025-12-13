@@ -27,7 +27,7 @@ featured: true
 ---
 
 ## Institutions:
-1. Faculty of Health, York University, Canada
+1. York University, Canada
 2. Vector Institute, Canada  
 3. Information Retrieval and Knowledge Management Research Lab, York University, Canada
 4. Dialpad Inc., Canada
