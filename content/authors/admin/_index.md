@@ -46,16 +46,15 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0002-0107-9457
 
 interests:
-  - Machine Learning
+  - Computer Engineering
   - Large Language Models
-  - Healthcare and Mental Health
-  - LLM Evaluation & Benchmarking
   - Responsible AI 
   - Interpretability
   - Safety and Alignment
+  - Healthcare and Mental Health
+  - LLM Evaluation & Benchmarking
   - Large Language Model Psychometrics
-  - Digital Biomarkers & Multimodal Sensing 
-  - Biomedical Signal Processing
+  - Biomarkers & Multimodal Sensing 
   
 education:
   - area: PhD Computer Engineering (AI and Health Focus)
@@ -295,6 +294,6 @@ skills:
 </p>
 
 <p class="justified-text">
-  <strong>Collaborations:</strong> Her research has involved collaborations with OpenAI, Vector Institute, University of Toronto, University Health Network (UHN), CAMH (Centre for Addiction and Mental Health), Kids Help Phone (KHP), Ontario Shores Centre for Mental Health Sciences, York University, Dalhousie University, and Ontario Tech University. <strong>Publications & Teaching:</strong> She has authored 25+ publications and research manuscripts in venues such as ICML, EACL, EMNLP, JMIR, and IEEE, and taught more than 20 courses across three universities. <strong>Industry Experience:</strong> She also worked in industry as a Machine Learning Researcher at York University, a Machine Learning Specialist at Vector Institute, and a Data Scientist at BetterCart Technologies Inc.
+  <strong>Collaborations:</strong> She collaborated with OpenAI, Vector Institute, University of Toronto, University Health Network (UHN), CAMH (Centre for Addiction and Mental Health), Kids Help Phone (KHP), Ontario Shores Centre for Mental Health Sciences, York University, Dalhousie University, and Ontario Tech University. <strong>Publications & Teaching:</strong> She has authored 25+ publications and research manuscripts in venues such as ICML, EACL, EMNLP, JMIR, and IEEE, and taught more than 20 courses across three universities. <strong>Industry Experience:</strong> She also worked in industry as a Machine Learning Researcher at York University, a Machine Learning Specialist at Vector Institute, and a Data Scientist at BetterCart Technologies Inc.
 </p>
 
