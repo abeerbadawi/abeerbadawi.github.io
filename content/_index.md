@@ -73,6 +73,69 @@ sections:
           <a href="#labs" class="research-btn">Research Labs</a>
         </div>
 
+    - block: markdown
+    id: featured
+    content:
+      title: Featured In
+      text: |-
+        <div class="featured-links">
+
+          <a href="https://annual-report.vectorinstitute.ai/" target="_blank" class="featured-card">
+            <strong>Vector Institute Annual Report 2025–26</strong><br>
+            Featured in Vector Institute's annual report highlighting research in safe and trustworthy AI for mental health and dementia care.
+          </a>
+
+          <a href="https://www.yorku.ca/yfile/2026/07/15/york-prof-explores-ai-safeguards-for-youth-mental-health/" target="_blank" class="featured-card">
+            <strong>York University YFile</strong><br>
+            York prof explores AI safeguards for youth mental health.
+          </a>
+
+          <a href="https://vectorinstitute.ai/when-ai-helps-too-much-towards-understanding-and-measuring-cognitive-atrophy-in-llm-behaviour/" target="_blank" class="featured-card">
+            <strong>Vector Institute Research Feature</strong><br>
+            When AI helps too much: Towards understanding and measuring Cognitive Atrophy in LLM behaviour.
+          </a>
+
+        </div>
+
+        <style>
+          .featured-links {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1.2rem;
+            margin-top: 1rem;
+          }
+
+          .featured-card {
+            display: block;
+            padding: 1.2rem;
+            border: 1px solid #e5e7eb;
+            border-radius: 14px;
+            text-decoration: none;
+            color: inherit;
+            background: #ffffff;
+            transition: all 0.2s ease;
+          }
+
+          .featured-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+          }
+
+          @media (max-width: 768px) {
+            .featured-links {
+              grid-template-columns: 1fr;
+            }
+          }
+        </style>
+
+    design:
+      spacing:
+        padding:
+          - 1rem
+          - 0
+          - 1rem
+          - 0
+
   - block: collection
     id: publications  
     content:

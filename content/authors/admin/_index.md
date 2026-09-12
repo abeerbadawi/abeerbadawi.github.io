@@ -47,7 +47,7 @@ profiles:
 
 interests:
   - Computer Engineering
-  - Large Language Models
+  - Large Language Models (LLM)
   - Responsible AI 
   - Interpretability
   - Safety and Alignment
