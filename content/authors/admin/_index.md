@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:abeer.badawi@yorku.ca'
+    url: 'mailto:abeerbadawi@yorku.ca'
     label: E-mail Me
   - icon: brands/github
     url:  https://github.com/abeerbadawi
@@ -289,22 +289,20 @@ skills:
   }
 </style>
 
+
 <p class="justified-text">
-  <strong>Dr. Abeer Badawi</strong> is a <strong>Postdoctoral Researcher at York University</strong> and a 
-  <strong>Faculty Affiliate Researcher at the Vector Institute</strong>, with over <strong>10 years of experience at the intersection of AI and healthcare</strong>. 
-  Her work bridges <strong>AI, LLM, health and mental health, digital biomarkers, and responsible AI</strong>, with a focus on 
-  <strong>fairness, evaluation, and real-world clinical impact</strong>. She has led and co-led projects on 
-  <strong>agitation prediction in dementia, digital biomarkers, and large-scale mental-health LLM evaluation</strong>, 
-  working  with partners such as <strong>Kids Help Phone (KHP)</strong>, <strong>University Health Network (UHN)</strong>, 
-  <strong>CAMH (The Centre for Addiction and Mental Health)</strong>, <strong>Ontario Shores Centre for Mental Health Sciences</strong>, 
-  and the <strong>Vector Institute</strong>.
+  Dr. Abeer Badawi holds a PhD in Computer Engineering focused on Health and AI. She is currently a Postdoctoral Researcher at York University and a Faculty Affiliate Researcher at the Vector Institute, with over 10 years of experience in AI, LLMs, Computer Engineering, and real-world healthcare applications.
+
+  <strong>Research:</strong> Her research focuses on Responsible AI, Interpretability, Safety, and Alignment, with applications in health informatics, LLMs, clinical decision support, multimodal AI, digital biomarkers, and mental health.
+
+  <strong>Funding & Awards:</strong> Her research has received competitive funding and awards, including the OpenAI AI and Mental Health Research Grant, Connected Minds Canada First Research Excellence Fund (CFREF), Youth Anxiety funding through Beneva and York University, and the Ontario Graduate Scholarship (OGS).
 </p>
 
 <p class="justified-text">
-  Her research is supported by competitive awards, including the <strong>Connected Minds CFREF Postdoctoral Scholarship</strong>, 
-  <strong>Ontario Graduate Scholarship (OGS)</strong>, and multiple <strong>institutional, national, and industry-funded research programs</strong>. 
-  Dr. Badawi earned her <strong>PhD in Computer Engineering</strong> and has authored publications in venues such as 
-  <strong>ICML, EMNLP, IEEE, and JMIR</strong>, alongside teaching <strong>over 15 engineering and AI courses across three universities</strong>. 
-  Dr. Badawi also worked in industry as a <strong>Machine Learning Researcher</strong> at York University, 
-  <strong>a Machine Learning Specialist</strong> at the Vector Institute, and <strong>Data Scientist</strong> at BetterCart Technologies Inc.
+  <strong>Collaborations:</strong> Her research has involved collaborations and research partnerships with OpenAI, Vector Institute, University of Toronto, University Health Network (UHN), CAMH (Centre for Addiction and Mental Health), Kids Help Phone (KHP), Ontario Shores Centre for Mental Health Sciences, York University, Dalhousie University, and Ontario Tech University.
+
+  <strong>Publications & Teaching:</strong> She has authored 25+ publications and research manuscripts in venues such as ICML, EACL, EMNLP, JMIR, and IEEE, and taught more than 20 courses across three universities.
+
+  <strong>Industry Experience:</strong> Dr. Badawi has additionally worked in industry as a Machine Learning Researcher at York University, a Machine Learning Specialist at the Vector Institute, and a Data Scientist at BetterCart Technologies Inc.
 </p>
+
