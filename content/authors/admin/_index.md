@@ -291,18 +291,10 @@ skills:
 
 
 <p class="justified-text">
-  Dr. Abeer Badawi holds a PhD in Computer Engineering focused on Health and AI. She is currently a Postdoctoral Researcher at York University and a Faculty Affiliate Researcher at the Vector Institute, with over 10 years of experience in AI, LLMs, Computer Engineering, and real-world healthcare applications.
-
-  <strong>Research:</strong> Her research focuses on Responsible AI, Interpretability, Safety, and Alignment, with applications in health informatics, LLMs, clinical decision support, multimodal AI, digital biomarkers, and mental health.
-
-  <strong>Funding & Awards:</strong> Her research has received competitive funding and awards, including the OpenAI AI and Mental Health Research Grant, Connected Minds Canada First Research Excellence Fund (CFREF), Youth Anxiety funding through Beneva and York University, and the Ontario Graduate Scholarship (OGS).
+  Dr. Abeer Badawi holds a PhD in Computer Engineering focused on Health and AI. She is currently a Postdoctoral Researcher at York University and a Faculty Affiliate Researcher at Vector Institute, with over 10 years of experience in AI, LLMs, Computer Engineering, and real-world healthcare applications. <strong>Research:</strong> Her research focuses on Responsible AI, Interpretability, Safety and Alignment. <strong>Funding & Awards:</strong> Her research has received competitive funding and awards, including the OpenAI AI and Mental Health Research Grant, Connected Minds Canada First Research Excellence Fund (CFREF), Youth Anxiety funding through Beneva and York University, and the Ontario Graduate Scholarship (OGS).
 </p>
 
 <p class="justified-text">
-  <strong>Collaborations:</strong> Her research has involved collaborations and research partnerships with OpenAI, Vector Institute, University of Toronto, University Health Network (UHN), CAMH (Centre for Addiction and Mental Health), Kids Help Phone (KHP), Ontario Shores Centre for Mental Health Sciences, York University, Dalhousie University, and Ontario Tech University.
-
-  <strong>Publications & Teaching:</strong> She has authored 25+ publications and research manuscripts in venues such as ICML, EACL, EMNLP, JMIR, and IEEE, and taught more than 20 courses across three universities.
-
-  <strong>Industry Experience:</strong> Dr. Badawi has additionally worked in industry as a Machine Learning Researcher at York University, a Machine Learning Specialist at the Vector Institute, and a Data Scientist at BetterCart Technologies Inc.
+  <strong>Collaborations:</strong> Her research has involved collaborations with OpenAI, Vector Institute, University of Toronto, University Health Network (UHN), CAMH (Centre for Addiction and Mental Health), Kids Help Phone (KHP), Ontario Shores Centre for Mental Health Sciences, York University, Dalhousie University, and Ontario Tech University. <strong>Publications & Teaching:</strong> She has authored 25+ publications and research manuscripts in venues such as ICML, EACL, EMNLP, JMIR, and IEEE, and taught more than 20 courses across three universities. <strong>Industry Experience:</strong> She also worked in industry as a Machine Learning Researcher at York University, a Machine Learning Specialist at Vector Institute, and a Data Scientist at BetterCart Technologies Inc.
 </p>
 
