@@ -17,7 +17,7 @@ publishDate: "2025-11-13T19:57:29.307914Z"
 
 publication_types:
   - article-journal
-publication: "*arXiv preprint arXiv:2510.19032*"
+publication: "*EACL 2025*"
 
 featured: true
 
@@ -29,7 +29,7 @@ image:
 
 links:
   - name: URL
-    url: "https://arxiv.org/abs/2510.19032"
+    url: "https://aclanthology.org/2026.eacl-long.180.pdf"
 ---
 
 ## Institutions:
