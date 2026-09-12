@@ -19,7 +19,7 @@ publishDate: "2026-06-16T16:26:12Z"
 weight: 1
 
 publication_types:
-  - paper-conference
+  - article
 
 publication: "arXiv preprint arXiv:2606.18129; submitted to NeurIPS 2026"
 
@@ -40,4 +40,4 @@ links:
 
   - name: Project Website
     url: "https://abeerbadawi.github.io/cognitive-atrophy-benchmark/#overview"
----
+---ß

@@ -1,5 +1,5 @@
 ---
-title: "A Scoping Review of Algorithmic Equity, Data Diversity, and Inclusive Design in the Transformer Era of Clinical NLP | medRxiv 2025 "
+title: "A Scoping Review of Algorithmic Equity, Data Diversity, and Inclusive Design in the Transformer Era of Clinical NLP | Journal of Biomedical Informatics 2026"
 summary: "𝐀𝐮𝐭𝐡𝐨𝐫𝐬: 𝐒𝐡𝐞𝐫𝐢 𝐆𝐫𝐚𝐜𝐡*, 𝐀𝐛𝐞𝐞𝐫 𝐁𝐚𝐝𝐚𝐰𝐢*, 𝐅𝐚𝐫𝐚𝐡 𝐀𝐡𝐦𝐚𝐝, 𝐄𝐥𝐡𝐚𝐦 𝐃𝐨𝐥𝐚𝐭𝐚𝐛𝐚𝐝𝐢."
 authors:
 - admin
