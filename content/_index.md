@@ -73,26 +73,35 @@ sections:
           <a href="#labs" class="research-btn">Research Labs</a>
         </div>
 
-  - block: markdown
+    - block: markdown
     id: featured
     content:
-      title: Featured In
+      title: Featured in the News
       text: |-
         <div class="featured-links">
 
           <a href="https://annual-report.vectorinstitute.ai/" target="_blank" class="featured-card">
-            <strong>Vector Institute Annual Report 2025–26</strong><br>
-            Featured in Vector Institute's annual report highlighting research in safe and trustworthy AI for mental health and dementia care.
+            <div class="featured-source">Vector Institute</div>
+            <div class="featured-title">Annual Report 2025–26</div>
+            <div class="featured-description">
+              Featured in Vector Institute's annual report highlighting research in safe and trustworthy AI for mental health and dementia care.
+            </div>
           </a>
 
           <a href="https://www.yorku.ca/yfile/2026/07/15/york-prof-explores-ai-safeguards-for-youth-mental-health/" target="_blank" class="featured-card">
-            <strong>York University YFile</strong><br>
-            York prof explores AI safeguards for youth mental health.
+            <div class="featured-source">York University YFile</div>
+            <div class="featured-title">York prof explores AI safeguards for youth mental health</div>
+            <div class="featured-description">
+              Feature on responsible AI, mental health, and safeguards for the use of LLMs in youth mental-health support.
+            </div>
           </a>
 
           <a href="https://vectorinstitute.ai/when-ai-helps-too-much-towards-understanding-and-measuring-cognitive-atrophy-in-llm-behaviour/" target="_blank" class="featured-card">
-            <strong>Vector Institute Research Feature</strong><br>
-            When AI helps too much: Towards understanding and measuring Cognitive Atrophy in LLM behaviour.
+            <div class="featured-source">Vector Institute</div>
+            <div class="featured-title">When AI Helps Too Much</div>
+            <div class="featured-description">
+              Towards understanding and measuring Cognitive Atrophy in LLM behaviour.
+            </div>
           </a>
 
         </div>
@@ -100,30 +109,69 @@ sections:
         <style>
           .featured-links {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 1.2rem;
-            margin-top: 1rem;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 1.5rem;
+
+            /* Make section wider than default markdown container */
+            width: min(1200px, 92vw);
+            position: relative;
+            left: 50%;
+            transform: translateX(-50%);
+
+            margin-top: 1.5rem;
           }
 
           .featured-card {
             display: block;
-            padding: 1.2rem;
-            border: 1px solid #e5e7eb;
-            border-radius: 14px;
-            text-decoration: none;
+            min-height: 230px;
+            padding: 1.6rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 16px;
+            text-decoration: none !important;
             color: inherit;
             background: #ffffff;
-            transition: all 0.2s ease;
+            transition:
+              transform 0.2s ease,
+              box-shadow 0.2s ease,
+              border-color 0.2s ease;
           }
 
           .featured-card:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+            transform: translateY(-4px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+            border-color: #cbd5e1;
           }
 
-          @media (max-width: 768px) {
+          .featured-source {
+            font-size: 0.9rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            margin-bottom: 0.7rem;
+            opacity: 0.65;
+          }
+
+          .featured-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            line-height: 1.35;
+            margin-bottom: 0.8rem;
+          }
+
+          .featured-description {
+            font-size: 1rem;
+            line-height: 1.6;
+            opacity: 0.82;
+          }
+
+          @media (max-width: 900px) {
             .featured-links {
               grid-template-columns: 1fr;
+              width: min(700px, 92vw);
+            }
+
+            .featured-card {
+              min-height: auto;
             }
           }
         </style>
@@ -133,9 +181,10 @@ sections:
         padding:
           - 1rem
           - 0
-          - 1rem
+          - 2rem
           - 0
 
+          
   - block: collection
     id: publications  
     content:
