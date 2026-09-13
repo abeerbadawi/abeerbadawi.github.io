@@ -76,31 +76,52 @@ sections:
   - block: markdown
     id: featured
     content:
-      title: Featured in the News
+      title: Research in the Spotlight
       text: |-
         <div class="featured-links">
 
-          <a href="https://annual-report.vectorinstitute.ai/" target="_blank" class="featured-card">
-            <div class="featured-source">Vector Institute</div>
-            <div class="featured-title">Annual Report 2025–26</div>
+          <a href="https://www.yorku.ca/yfile/2026/07/15/york-prof-explores-ai-safeguards-for-youth-mental-health/"
+             target="_blank"
+             class="featured-card">
+
+            <div class="featured-source">Featured in York University News</div>
+
+            <div class="featured-title">
+              York researchers explore AI safeguards for youth mental health
+            </div>
+
             <div class="featured-description">
-              Featured in Vector Institute's annual report highlighting research in safe and trustworthy AI for mental health and dementia care.
+              York University highlights research on responsible AI, LLM safety, and safeguards for youth mental-health applications.
             </div>
           </a>
 
-          <a href="https://www.yorku.ca/yfile/2026/07/15/york-prof-explores-ai-safeguards-for-youth-mental-health/" target="_blank" class="featured-card">
-            <div class="featured-source">York University YFile</div>
-            <div class="featured-title">York prof explores AI safeguards for youth mental health</div>
+          <a href="https://annual-report.vectorinstitute.ai/"
+             target="_blank"
+             class="featured-card">
+
+            <div class="featured-source">Featured in Vector Institute Annual Report 2025–26</div>
+
+            <div class="featured-title">
+              Where AI possibilities come to life
+            </div>
+
             <div class="featured-description">
-              Feature on responsible AI, mental health, and safeguards for the use of LLMs in youth mental-health support.
+              Featured in the Vector Institute Annual Report 2025–26 highlighting research and impact across Canada's AI ecosystem.
             </div>
           </a>
 
-          <a href="https://vectorinstitute.ai/when-ai-helps-too-much-towards-understanding-and-measuring-cognitive-atrophy-in-llm-behaviour/" target="_blank" class="featured-card">
-            <div class="featured-source">Vector Institute</div>
-            <div class="featured-title">When AI Helps Too Much</div>
+          <a href="https://vectorinstitute.ai/when-ai-helps-too-much-towards-understanding-and-measuring-cognitive-atrophy-in-llm-behaviour/"
+             target="_blank"
+             class="featured-card">
+
+            <div class="featured-source">Featured in Vector Institute News</div>
+
+            <div class="featured-title">
+              When AI helps too much: Towards understanding and measuring Cognitive Atrophy in LLM behaviour
+            </div>
+
             <div class="featured-description">
-              Towards understanding and measuring Cognitive Atrophy in LLM behaviour.
+              A research feature exploring Cognitive Atrophy and how LLM behaviour may influence users' reasoning and decision-making.
             </div>
           </a>
 
@@ -111,13 +132,10 @@ sections:
             display: grid;
             grid-template-columns: repeat(3, minmax(0, 1fr));
             gap: 1.5rem;
-
-            /* Make section wider than default markdown container */
-            width: min(1200px, 92vw);
+            width: min(1250px, 94vw);
             position: relative;
             left: 50%;
             transform: translateX(-50%);
-
             margin-top: 1.5rem;
           }
 
@@ -143,11 +161,11 @@ sections:
           }
 
           .featured-source {
-            font-size: 0.9rem;
-            font-weight: 600;
+            font-size: 0.85rem;
+            font-weight: 700;
             text-transform: uppercase;
             letter-spacing: 0.04em;
-            margin-bottom: 0.7rem;
+            margin-bottom: 0.8rem;
             opacity: 0.65;
           }
 
@@ -160,7 +178,7 @@ sections:
 
           .featured-description {
             font-size: 1rem;
-            line-height: 1.6;
+            line-height: 1.55;
             opacity: 0.82;
           }
 

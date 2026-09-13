@@ -25,17 +25,10 @@ publication: "arXiv preprint arXiv:2606.18129; submitted to NeurIPS 2026"
 
 featured: true
 
-url_pdf: "https://arxiv.org/pdf/2606.18129"
-url_code: ""
-url_dataset: ""
-url_poster: ""
-url_project: "https://abeerbadawi.github.io/cognitive-atrophy-benchmark/#overview"
-url_slides: ""
-url_source: ""
-url_video: ""
+
 
 links:
-  - name: arXiv
+  - name: Paper
     url: "https://arxiv.org/abs/2606.18129"
 
   - name: Project Website
