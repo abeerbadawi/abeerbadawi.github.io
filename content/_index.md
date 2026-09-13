@@ -73,7 +73,7 @@ sections:
           <a href="#labs" class="research-btn">Research Labs</a>
         </div>
 
-    - block: markdown
+  - block: markdown
     id: featured
     content:
       title: Featured in the News
@@ -184,7 +184,6 @@ sections:
           - 2rem
           - 0
 
-          
   - block: collection
     id: publications  
     content:
