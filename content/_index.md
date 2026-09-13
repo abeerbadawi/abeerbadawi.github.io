@@ -73,7 +73,7 @@ sections:
           <a href="#labs" class="research-btn">Research Labs</a>
         </div>
 
-    - block: markdown
+  - block: markdown
     id: featured
     content:
       title: Featured In
