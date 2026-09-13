@@ -73,6 +73,25 @@ sections:
           <a href="#labs" class="research-btn">Research Labs</a>
         </div>
 
+  - block: collection
+    id: labs
+    content:
+      title: Research Labs
+      sort_by: weight
+      order: asc
+      filters:
+        folders:
+          - labs
+    design:
+      view: article-grid
+      columns: 2
+      spacing:
+        padding:
+          - 0
+          - 0
+          - 1rem
+          - 0
+
   - block: markdown
     id: featured
     content:
@@ -83,45 +102,27 @@ sections:
           <a href="https://www.yorku.ca/yfile/2026/07/15/york-prof-explores-ai-safeguards-for-youth-mental-health/"
              target="_blank"
              class="featured-card">
-
             <div class="featured-source">Featured in York University News</div>
-
             <div class="featured-title">
               York researchers explore AI safeguards for youth mental health
-            </div>
-
-            <div class="featured-description">
-              York University highlights research on responsible AI, LLM safety, and safeguards for youth mental-health applications.
             </div>
           </a>
 
           <a href="https://annual-report.vectorinstitute.ai/"
              target="_blank"
              class="featured-card">
-
             <div class="featured-source">Featured in Vector Institute Annual Report 2025–26</div>
-
             <div class="featured-title">
               Where AI possibilities come to life
-            </div>
-
-            <div class="featured-description">
-              Featured in the Vector Institute Annual Report 2025–26 highlighting research and impact across Canada's AI ecosystem.
             </div>
           </a>
 
           <a href="https://vectorinstitute.ai/when-ai-helps-too-much-towards-understanding-and-measuring-cognitive-atrophy-in-llm-behaviour/"
              target="_blank"
              class="featured-card">
-
             <div class="featured-source">Featured in Vector Institute News</div>
-
             <div class="featured-title">
               When AI helps too much: Towards understanding and measuring Cognitive Atrophy in LLM behaviour
-            </div>
-
-            <div class="featured-description">
-              A research feature exploring Cognitive Atrophy and how LLM behaviour may influence users' reasoning and decision-making.
             </div>
           </a>
 
@@ -140,24 +141,22 @@ sections:
           }
 
           .featured-card {
-            display: block;
-            min-height: 230px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 180px;
             padding: 1.6rem;
             border: 1px solid #e2e8f0;
             border-radius: 16px;
             text-decoration: none !important;
             color: inherit;
             background: #ffffff;
-            transition:
-              transform 0.2s ease,
-              box-shadow 0.2s ease,
-              border-color 0.2s ease;
+            transition: all 0.2s ease;
           }
 
           .featured-card:hover {
             transform: translateY(-4px);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
-            border-color: #cbd5e1;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.08);
           }
 
           .featured-source {
@@ -172,24 +171,13 @@ sections:
           .featured-title {
             font-size: 1.25rem;
             font-weight: 700;
-            line-height: 1.35;
-            margin-bottom: 0.8rem;
-          }
-
-          .featured-description {
-            font-size: 1rem;
-            line-height: 1.55;
-            opacity: 0.82;
+            line-height: 1.4;
           }
 
           @media (max-width: 900px) {
             .featured-links {
               grid-template-columns: 1fr;
               width: min(700px, 92vw);
-            }
-
-            .featured-card {
-              min-height: auto;
             }
           }
         </style>
@@ -203,20 +191,24 @@ sections:
           - 0
 
   - block: collection
-    id: publications  
+    id: publications
     content:
       title: Research Publications
+      sort_by: weight
       order: desc
-      sort_by: 'weight'
       count: 6
       filters:
         folders:
           - publications
     design:
-      spacing:
-        padding: [1, 0, 0, 0]
       view: article-grid
       columns: 2
+      spacing:
+        padding:
+          - 1rem
+          - 0
+          - 0
+          - 0
   
   - block: collection
     id: labs  # This matches the button link
