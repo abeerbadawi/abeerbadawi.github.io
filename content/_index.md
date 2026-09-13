@@ -72,7 +72,6 @@ sections:
           <a href="#publications" class="research-btn">Research Publications</a>
           <a href="#labs" class="research-btn">Research Labs</a>
         </div>
-
   
   - block: collection
     id: labs  # This matches the button link
