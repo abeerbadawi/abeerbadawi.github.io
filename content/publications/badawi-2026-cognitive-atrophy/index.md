@@ -40,4 +40,4 @@ links:
 
   - name: Project Website
     url: "https://abeerbadawi.github.io/cognitive-atrophy-benchmark/#overview"
----ß
+---
