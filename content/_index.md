@@ -27,6 +27,7 @@ sections:
         size: medium
         shape: circle
 
+ 
   - block: markdown
     id: spotlight
     content:
@@ -63,16 +64,31 @@ sections:
         <style>
           .spotlight-box {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+
+            width: min(1400px, 94vw);
+            position: relative;
+            left: 50%;
+            transform: translateX(-50%);
+
             border: 1px solid #e5e7eb;
             border-radius: 16px;
             background: #ffffff;
             overflow: hidden;
+
             margin-top: 1rem;
+            margin-bottom: 1rem;
+
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
           }
 
           .spotlight-item {
-            padding: 1.4rem 1.6rem;
+            padding: 1.5rem 1.8rem;
+            min-height: 150px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
           }
 
           .spotlight-item:not(:last-child) {
@@ -85,13 +101,13 @@ sections:
             text-transform: uppercase;
             letter-spacing: 0.04em;
             opacity: 0.6;
-            margin-bottom: 0.6rem;
+            margin-bottom: 0.7rem;
           }
 
           .spotlight-item a {
-            font-size: 1.05rem;
+            font-size: 1.08rem;
             font-weight: 600;
-            line-height: 1.45;
+            line-height: 1.5;
             color: inherit;
             text-decoration: none;
           }
@@ -103,6 +119,11 @@ sections:
           @media (max-width: 900px) {
             .spotlight-box {
               grid-template-columns: 1fr;
+              width: 92vw;
+            }
+
+            .spotlight-item {
+              min-height: auto;
             }
 
             .spotlight-item:not(:last-child) {
@@ -116,6 +137,7 @@ sections:
       spacing:
         padding: [0.5rem, 0, 1rem, 0]
 
+        
   - block: markdown
     id : research
     design:
