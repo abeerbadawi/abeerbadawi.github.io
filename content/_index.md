@@ -32,94 +32,89 @@ sections:
     content:
       title: Research in the Spotlight
       text: |-
-        <div class="spotlight-grid">
+        <div class="spotlight-box">
 
-          <a class="spotlight-card"
-             href="https://www.yorku.ca/yfile/2026/07/15/york-prof-explores-ai-safeguards-for-youth-mental-health/"
-             target="_blank">
+          <div class="spotlight-item">
             <div class="spotlight-source">York University News</div>
-            <div class="spotlight-title">
+            <a href="https://www.yorku.ca/yfile/2026/07/15/york-prof-explores-ai-safeguards-for-youth-mental-health/"
+               target="_blank">
               York researchers explore AI safeguards for youth mental health
-            </div>
-          </a>
+            </a>
+          </div>
 
-          <a class="spotlight-card"
-             href="https://annual-report.vectorinstitute.ai/"
-             target="_blank">
+          <div class="spotlight-item">
             <div class="spotlight-source">Vector Institute Annual Report 2025–26</div>
-            <div class="spotlight-title">
+            <a href="https://annual-report.vectorinstitute.ai/"
+               target="_blank">
               Where AI possibilities come to life
-            </div>
-          </a>
+            </a>
+          </div>
 
-          <a class="spotlight-card"
-             href="https://vectorinstitute.ai/when-ai-helps-too-much-towards-understanding-and-measuring-cognitive-atrophy-in-llm-behaviour/"
-             target="_blank">
+          <div class="spotlight-item">
             <div class="spotlight-source">Vector Institute News</div>
-            <div class="spotlight-title">
+            <a href="https://vectorinstitute.ai/when-ai-helps-too-much-towards-understanding-and-measuring-cognitive-atrophy-in-llm-behaviour/"
+               target="_blank">
               When AI helps too much: Towards understanding and measuring Cognitive Atrophy in LLM behaviour
-            </div>
-          </a>
+            </a>
+          </div>
 
         </div>
 
         <style>
-          .spotlight-grid {
+          .spotlight-box {
             display: grid;
-            grid-template-columns: repeat(3, minmax(0, 1fr));
-            gap: 1.5rem;
-            margin-top: 1.5rem;
-          }
-
-          .spotlight-card {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            min-height: 190px;
-            padding: 1.5rem;
-
-            background: #ffffff;
+            grid-template-columns: repeat(3, 1fr);
             border: 1px solid #e5e7eb;
             border-radius: 16px;
-
-            color: inherit;
-            text-decoration: none !important;
-
-            box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-            transition: all 0.2s ease;
+            background: #ffffff;
+            overflow: hidden;
+            margin-top: 1rem;
           }
 
-          .spotlight-card:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+          .spotlight-item {
+            padding: 1.4rem 1.6rem;
+          }
+
+          .spotlight-item:not(:last-child) {
+            border-right: 1px solid #e5e7eb;
           }
 
           .spotlight-source {
-            font-size: 0.85rem;
+            font-size: 0.82rem;
             font-weight: 700;
             text-transform: uppercase;
             letter-spacing: 0.04em;
-            opacity: 0.65;
-            margin-bottom: 0.8rem;
+            opacity: 0.6;
+            margin-bottom: 0.6rem;
           }
 
-          .spotlight-title {
-            font-size: 1.15rem;
-            font-weight: 700;
+          .spotlight-item a {
+            font-size: 1.05rem;
+            font-weight: 600;
             line-height: 1.45;
+            color: inherit;
+            text-decoration: none;
+          }
+
+          .spotlight-item a:hover {
+            text-decoration: underline;
           }
 
           @media (max-width: 900px) {
-            .spotlight-grid {
+            .spotlight-box {
               grid-template-columns: 1fr;
+            }
+
+            .spotlight-item:not(:last-child) {
+              border-right: none;
+              border-bottom: 1px solid #e5e7eb;
             }
           }
         </style>
 
     design:
       spacing:
-        padding: [1rem, 0, 1.5rem, 0]
-
+        padding: [0.5rem, 0, 1rem, 0]
 
   - block: markdown
     id : research
