@@ -73,7 +73,62 @@ sections:
           <a href="#labs" class="research-btn">Research Labs</a>
         </div>
 
+  - block: markdown
+    id: spotlight
+    content:
+      title: Research in the Spotlight
+      text: |-
+        <p class="spotlight-line">
+          <a href="https://www.yorku.ca/yfile/2026/07/15/york-prof-explores-ai-safeguards-for-youth-mental-health/" target="_blank">
+            <strong>York University News:</strong> York researchers explore AI safeguards for youth mental health
+          </a>
 
+          <span class="spotlight-separator">•</span>
+
+          <a href="https://annual-report.vectorinstitute.ai/" target="_blank">
+            <strong>Vector Institute Annual Report 2025–26:</strong> Where AI possibilities come to life
+          </a>
+        </p>
+
+        <style>
+          .spotlight-line {
+            text-align: center;
+            font-size: 1.05rem;
+            line-height: 1.7;
+            margin: 0.8rem auto 1.2rem auto;
+            max-width: 1200px;
+          }
+
+          .spotlight-line a {
+            color: inherit;
+            text-decoration: none;
+          }
+
+          .spotlight-line a:hover {
+            text-decoration: underline;
+          }
+
+          .spotlight-separator {
+            margin: 0 1rem;
+            opacity: 0.5;
+          }
+
+          @media (max-width: 800px) {
+            .spotlight-line {
+              display: flex;
+              flex-direction: column;
+              gap: 0.8rem;
+            }
+
+            .spotlight-separator {
+              display: none;
+            }
+          }
+        </style>
+
+    design:
+      spacing:
+        padding: [0.5rem, 0, 1rem, 0]
 
   - block: collection
     id: publications  
