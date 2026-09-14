@@ -32,18 +32,93 @@ sections:
     content:
       title: Research in the Spotlight
       text: |-
-        **York University News**  
-        [York researchers explore AI safeguards for youth mental health](https://www.yorku.ca/yfile/2026/07/15/york-prof-explores-ai-safeguards-for-youth-mental-health/)
+        <div class="spotlight-grid">
 
-        **Vector Institute Annual Report 2025–26**  
-        [Where AI possibilities come to life](https://annual-report.vectorinstitute.ai/)
+          <a class="spotlight-card"
+             href="https://www.yorku.ca/yfile/2026/07/15/york-prof-explores-ai-safeguards-for-youth-mental-health/"
+             target="_blank">
+            <div class="spotlight-source">York University News</div>
+            <div class="spotlight-title">
+              York researchers explore AI safeguards for youth mental health
+            </div>
+          </a>
 
-        **Vector Institute News**  
-        [When AI helps too much: Towards understanding and measuring Cognitive Atrophy in LLM behaviour](https://vectorinstitute.ai/when-ai-helps-too-much-towards-understanding-and-measuring-cognitive-atrophy-in-llm-behaviour/)
+          <a class="spotlight-card"
+             href="https://annual-report.vectorinstitute.ai/"
+             target="_blank">
+            <div class="spotlight-source">Vector Institute Annual Report 2025–26</div>
+            <div class="spotlight-title">
+              Where AI possibilities come to life
+            </div>
+          </a>
+
+          <a class="spotlight-card"
+             href="https://vectorinstitute.ai/when-ai-helps-too-much-towards-understanding-and-measuring-cognitive-atrophy-in-llm-behaviour/"
+             target="_blank">
+            <div class="spotlight-source">Vector Institute News</div>
+            <div class="spotlight-title">
+              When AI helps too much: Towards understanding and measuring Cognitive Atrophy in LLM behaviour
+            </div>
+          </a>
+
+        </div>
+
+        <style>
+          .spotlight-grid {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 1.5rem;
+            margin-top: 1.5rem;
+          }
+
+          .spotlight-card {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 190px;
+            padding: 1.5rem;
+
+            background: #ffffff;
+            border: 1px solid #e5e7eb;
+            border-radius: 16px;
+
+            color: inherit;
+            text-decoration: none !important;
+
+            box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+            transition: all 0.2s ease;
+          }
+
+          .spotlight-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+          }
+
+          .spotlight-source {
+            font-size: 0.85rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            opacity: 0.65;
+            margin-bottom: 0.8rem;
+          }
+
+          .spotlight-title {
+            font-size: 1.15rem;
+            font-weight: 700;
+            line-height: 1.45;
+          }
+
+          @media (max-width: 900px) {
+            .spotlight-grid {
+              grid-template-columns: 1fr;
+            }
+          }
+        </style>
 
     design:
       spacing:
-        padding: [1rem, 0, 1rem, 0]
+        padding: [1rem, 0, 1.5rem, 0]
 
 
   - block: markdown
