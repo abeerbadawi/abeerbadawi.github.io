@@ -27,6 +27,24 @@ sections:
         size: medium
         shape: circle
 
+  - block: markdown
+    id: spotlight
+    content:
+      title: Research in the Spotlight
+      text: |-
+        **York University News**  
+        [York researchers explore AI safeguards for youth mental health](https://www.yorku.ca/yfile/2026/07/15/york-prof-explores-ai-safeguards-for-youth-mental-health/)
+
+        **Vector Institute Annual Report 2025–26**  
+        [Where AI possibilities come to life](https://annual-report.vectorinstitute.ai/)
+
+        **Vector Institute News**  
+        [When AI helps too much: Towards understanding and measuring Cognitive Atrophy in LLM behaviour](https://vectorinstitute.ai/when-ai-helps-too-much-towards-understanding-and-measuring-cognitive-atrophy-in-llm-behaviour/)
+
+    design:
+      spacing:
+        padding: [1rem, 0, 1rem, 0]
+
 
   - block: markdown
     id : research
@@ -74,23 +92,6 @@ sections:
         </div>
 
 
-  - block: markdown
-    id: spotlight
-    content:
-      title: Research in the Spotlight
-      text: |-
-        **York University News**  
-        [York researchers explore AI safeguards for youth mental health](https://www.yorku.ca/yfile/2026/07/15/york-prof-explores-ai-safeguards-for-youth-mental-health/)
-
-        **Vector Institute Annual Report 2025–26**  
-        [Where AI possibilities come to life](https://annual-report.vectorinstitute.ai/)
-
-        **Vector Institute News**  
-        [When AI helps too much: Towards understanding and measuring Cognitive Atrophy in LLM behaviour](https://vectorinstitute.ai/when-ai-helps-too-much-towards-understanding-and-measuring-cognitive-atrophy-in-llm-behaviour/)
-
-    design:
-      spacing:
-        padding: [1rem, 0, 1rem, 0]
 
   - block: collection
     id: publications  
