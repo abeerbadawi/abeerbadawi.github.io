@@ -66,7 +66,9 @@ sections:
             display: grid;
             grid-template-columns: repeat(3, minmax(0, 1fr));
 
-            width: min(1400px, 94vw);
+            width: 94vw !important;
+            max-width: none !important;
+
             position: relative;
             left: 50%;
             transform: translateX(-50%);
@@ -83,7 +85,7 @@ sections:
           }
 
           .spotlight-item {
-            padding: 1.5rem 1.8rem;
+            padding: 1.7rem 2rem;
             min-height: 150px;
 
             display: flex;
@@ -118,8 +120,8 @@ sections:
 
           @media (max-width: 900px) {
             .spotlight-box {
+              width: 92vw !important;
               grid-template-columns: 1fr;
-              width: 92vw;
             }
 
             .spotlight-item {
@@ -136,7 +138,6 @@ sections:
     design:
       spacing:
         padding: [0.5rem, 0, 1rem, 0]
-
         
   - block: markdown
     id : research
