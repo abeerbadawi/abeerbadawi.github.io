@@ -290,7 +290,7 @@ skills:
 
 
 <p class="justified-text">
-  Dr. Abeer Badawi holds a PhD in Computer Engineering focused on Health and AI. She is currently a Postdoctoral Researcher at York University and a Faculty Affiliate Researcher at Vector Institute, with over 10 years of experience in AI, LLMs, Computer Engineering, and real-world healthcare applications. <strong>Research:</strong> Her research focuses on Responsible AI, Interpretability, Safety and Alignment. <strong>Funding & Awards:</strong> Her research has received competitive funding and awards, including the OpenAI AI and Mental Health Research Grant, Connected Minds Canada First Research Excellence Fund (CFREF), Youth Anxiety funding through Beneva and York University, and the Ontario Graduate Scholarship (OGS).
+  Dr. Abeer Badawi holds a PhD in Computer Engineering focused on Health and AI. She is currently a Postdoctoral Researcher at York University and a Faculty Affiliate Researcher at Vector Institute, with over 10 years of experience in AI, LLMs, Computer Engineering, and real-world healthcare applications. <strong>Research:</strong> Her research focuses on Responsible AI; Safety and Alignment; Human-Centred AI; LLM Behaviour and Evaluation; Cognitive and Mental Health; and AI for Health. <strong>Funding & Awards:</strong> Her research has received competitive funding and awards, including the OpenAI AI and Mental Health Research Grant, Connected Minds Canada First Research Excellence Fund (CFREF), Youth Anxiety funding through Beneva and York University, and the Ontario Graduate Scholarship (OGS).
 </p>
 
 <p class="justified-text">
