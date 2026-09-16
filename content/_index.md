@@ -22,7 +22,7 @@ sections:
     design:
       spacing:
         padding: [0, 0, 0, 0]
-      css_class: hbx-bg-gradient
+      css_class: "hbx-bg-gradient wide-bio"
       avatar:
         size: medium
         shape: circle
@@ -62,6 +62,12 @@ sections:
         </div>
 
         <style>
+            /* Wider Professional Summary */
+          .wide-bio .prose,
+          .wide-bio .max-w-prose,
+          .wide-bio .max-w-3xl {
+            max-width: 1200px !important;
+          }
           .spotlight-box {
             display: grid;
             grid-template-columns: repeat(3, minmax(0, 1fr));
