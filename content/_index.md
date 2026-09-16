@@ -62,40 +62,12 @@ sections:
         </div>
 
         <style>
-          /* Widen the full biography section */
-          .wide-bio .container,
-          .wide-bio .max-w-screen-xl,
-          .wide-bio .max-w-7xl {
-            max-width: 1500px !important;
-            width: 94vw !important;
-          }
-
-          /* Give the Professional Summary more horizontal space */
-          .wide-bio .grid {
-            grid-template-columns: 430px minmax(0, 1fr) !important;
-            column-gap: 3rem !important;
-          }
-
-          /* Remove narrow text limits */
+          /* Wider Professional Summary */
           .wide-bio .prose,
           .wide-bio .max-w-prose,
-          .wide-bio .max-w-3xl,
-          .wide-bio .max-w-4xl {
-            max-width: none !important;
-            width: 100% !important;
-          }
-
-          /* Keep mobile layout normal */
-          @media (max-width: 900px) {
-            .wide-bio .container,
-            .wide-bio .max-w-screen-xl,
-            .wide-bio .max-w-7xl {
-              width: 92vw !important;
-            }
-
-            .wide-bio .grid {
-              grid-template-columns: 1fr !important;
-            }
+          .wide-bio .max-w-3xl {
+            max-width: 1400px !important;
+            width: 94vw !important;
           }
           .spotlight-box {
             display: grid;
