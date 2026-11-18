@@ -5,7 +5,7 @@ date: '2024-06-01'
 external_link: 'https://engineering.ontariotechu.ca'
 weight : 4
 image:
-  filename: featured.jpg
+  filename: featured.png
   caption: 'Best Thesis Award Nomination'
   focal_point: 'Smart'
 ---
