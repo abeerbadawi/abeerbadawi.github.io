@@ -20,7 +20,7 @@ weight: 8
 
 
 publication_types:
-  - article
+  - conference paper
 
 publication: "Advances in Neural Information Processing Systems (NeurIPS 2026)"
 
@@ -30,8 +30,6 @@ links:
   - name: Paper (NeurIPS 2026)
     url: "https://openreview.net/pdf?id=sBIsNxaYbj"
 
-  - name: arXiv
-    url: "https://arxiv.org/abs/2606.18129"
 
   - name: Project Website
     url: "https://abeerbadawi.github.io/cognitive-atrophy-benchmark/#overview"
