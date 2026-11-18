@@ -1,5 +1,5 @@
 ---
-title: "Towards Understanding and Measuring COGNITIVE ATROPHY in LLM Behaviour"
+title: "Towards Understanding and Measuring COGNITIVE ATROPHY in LLM Behaviour | NeurIPS 2026 Conference"
 
 summary: "Authors: Abeer Badawi, Moyosoreoluwa Olatosi, Negin Baghbanzadeh, Laleh Seyyed-Kalantari, Frank Rudzicz, R. Shayna Rosenbaum, Sara Pishdadian, Elham Dolatabadi."
 
@@ -18,17 +18,19 @@ publishDate: "2026-06-16T16:26:12Z"
 
 weight: 8
 
+
 publication_types:
   - article
 
-publication: "arXiv preprint arXiv:2606.18129; submitted to NeurIPS 2026"
+publication: "Advances in Neural Information Processing Systems (NeurIPS 2026)"
 
 featured: true
 
-
-
 links:
-  - name: Paper
+  - name: Paper (NeurIPS 2026)
+    url: "https://openreview.net/pdf?id=sBIsNxaYbj"
+
+  - name: arXiv
     url: "https://arxiv.org/abs/2606.18129"
 
   - name: Project Website
