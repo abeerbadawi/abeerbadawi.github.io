@@ -15,8 +15,7 @@ authors:
 weight: 6
 publishDate: "2025-11-13T19:57:29.307914Z"
 
-publication_types:
-  - conference paper
+
 publication: "*EACL 2025*"
 
 featured: true

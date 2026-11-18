@@ -19,9 +19,6 @@ publishDate: "2026-06-16T16:26:12Z"
 weight: 8
 
 
-publication_types:
-  - conference paper
-
 publication: "Advances in Neural Information Processing Systems (NeurIPS 2026)"
 
 featured: true
